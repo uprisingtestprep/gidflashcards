@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What is immune senescence?",
+    "back": "Age-associated decline in immune function, including weaker neutrophil activity, less effective antigen presentation, and reduced T-cell responses. It helps explain muted fever and atypical infection presentation in older adults."
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What is inflammaging?",
+    "back": "A chronic low-grade inflammatory state associated with aging. It does not equal effective antimicrobial defense; instead, it may increase vulnerability to delirium, endothelial injury, and organ dysfunction during infection."
+  },
+  {
+    "id": 3,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "Why can infection present atypically after age 65?",
+    "back": "Because immune response, barrier integrity, and organ reserve all change with age. Older adults may show delirium, falls, anorexia, weakness, or functional decline rather than classic fever and localized pain."
+  },
+  {
+    "id": 4,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "How does frailty change infection risk?",
+    "back": "Frailty reflects reduced resilience across multiple systems. It increases the chance that a modest infection will trigger dehydration, delirium, immobility, acute kidney injury, or loss of independence."
+  },
+  {
+    "id": 5,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "Why are baseline symptoms hard to interpret in older adults?",
+    "back": "Multimorbidity can mimic infection, and chronic symptoms may mask new ones. Diagnosis depends on identifying an acute change from baseline in function, cognition, or comfort."
+  },
+  {
+    "id": 6,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What physiologic barriers decline with age?",
+    "back": "Skin integrity, mucosal protection, cough strength, swallowing coordination, bladder emptying, and gut integrity can all worsen. These changes raise infection risk and impair clearance of pathogens."
+  },
+  {
+    "id": 7,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What is a common diagnostic error in geriatric infection?",
+    "back": "Assuming a positive culture or abnormal urinalysis proves infection. Colonization is common, so test results must match a compatible syndrome and source."
+  },
+  {
+    "id": 8,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What should clinicians ask first when evaluating infection in an older adult?",
+    "back": "What has changed from baseline? Acute confusion, falls, reduced intake, or functional decline may be the earliest clues and are often more informative than fever."
+  },
+  {
+    "id": 9,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "Why is renal function central to infection management in older adults?",
+    "back": "Kidney reserve is often reduced, and acute illness can worsen clearance quickly. Renal function affects drug selection, dose safety, and risk of toxicity."
+  },
+  {
+    "id": 10,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "How does polypharmacy affect infection care?",
+    "back": "It increases adverse effect and interaction risk. Drugs can worsen delirium, bleeding, kidney injury, arrhythmia, hypoglycemia, or falls, and illness can alter absorption and clearance."
+  },
+  {
+    "id": 11,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What is the role of source control?",
+    "back": "Source control removes or reduces the nidus of infection, such as drainage, device removal, or relief of obstruction. In older adults, it can be as important as antimicrobial choice."
+  },
+  {
+    "id": 12,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "Why is supportive care so important in older adults with infection?",
+    "back": "Hydration, oxygen, nutrition, pain control, mobilization, and delirium prevention can determine whether the patient recovers function or develops prolonged decline."
+  },
+  {
+    "id": 13,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What does de-escalation mean in infection treatment?",
+    "back": "Narrowing or stopping antimicrobial therapy once the syndrome, source, and culture data clarify the diagnosis. It reduces toxicity, resistance, and Clostridioides difficile risk."
+  },
+  {
+    "id": 14,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "What monitoring matters most during recovery?",
+    "back": "Mental status, oral intake, urine output, mobility, oxygenation, hemodynamics, renal function, and medication toxicity. Functional recovery is as important as microbiologic improvement."
+  },
+  {
+    "id": 15,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "Why are transitions of care high risk after infection?",
+    "back": "Medication lists may be inaccurate, stop dates may be unclear, and supportive care may be interrupted. Older adults can relapse or deteriorate if follow-up is not explicit."
+  },
+  {
+    "id": 16,
+    "chapter": 1,
+    "domain": "foundations",
+    "front": "How should goals of care shape infection management?",
+    "back": "They guide how aggressive treatment should be and what outcomes matter most. For some patients, reversible illness and function are priorities; for others, comfort and burden reduction take precedence."
+  },
+  {
+    "id": 17,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "Why can fever be absent in serious illness in older adults?",
+    "back": "Older adults may have a blunted inflammatory response from immunosenescence, frailty, medications, or chronic disease. Serious infection or other acute illness can therefore occur without fever. Clinical concern should rise when there is new delirium, weakness, anorexia, falls, or functional decline, even if temperature is normal."
+  },
+  {
+    "id": 18,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What is the best way to interpret new delirium in an older adult?",
+    "back": "Treat delirium as a symptom of an acute process until proven otherwise. Search for medication toxicity, dehydration, hypoxia, metabolic abnormalities, urinary retention, constipation, pain, infection, or intracranial disease. Do not assume it is simply dementia progression."
+  },
+  {
+    "id": 19,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "Why is collateral history so important in geriatric diagnosis?",
+    "back": "Family, caregivers, and facility staff often know the preillness baseline better than the patient can describe it. Collateral history clarifies onset, tempo, functional loss, medication changes, oral intake, sleep, continence, and mobility, all of which are central to diagnostic reasoning."
+  },
+  {
+    "id": 20,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "How do falls present as a diagnostic clue in older adults?",
+    "back": "A new fall can be the presenting sign of acute illness, medication adverse effects, orthostasis, arrhythmia, stroke, or delirium. Falls should not be dismissed as aging. They require comparison with baseline mobility and assessment for reversible contributors."
+  },
+  {
+    "id": 21,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "Why can pain be underreported in older adults with cognitive impairment?",
+    "back": "Pain may be expressed as agitation, withdrawal, resistance to care, or functional decline rather than a verbal complaint. Dementia, hearing loss, aphasia, and low health literacy further limit symptom reporting. Observe behavior and function, not just stated pain."
+  },
+  {
+    "id": 22,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What is a common diagnostic error involving pyuria or bacteriuria?",
+    "back": "Pyuria or bacteriuria may be mistakenly taken as proof that delirium or weakness is due to urinary infection. These findings are common in older adults and may be incidental. Clinical correlation is required to decide whether they explain the acute change."
+  },
+  {
+    "id": 23,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "How can medications mimic acute illness in older adults?",
+    "back": "Sedatives, anticholinergics, opioids, insulin, and recent medication changes can cause delirium, falls, urinary retention, constipation, hypoglycemia, or weakness. Medication review is a core part of the evaluation, especially after transitions of care."
+  },
+  {
+    "id": 24,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What functional change matters most in geriatric diagnostic reasoning?",
+    "back": "Any acute decline from the person’s own baseline is meaningful, especially new dependence in walking, transfers, eating, toileting, or self-care. In frail older adults, a modest stressor can cause a large functional drop."
+  },
+  {
+    "id": 25,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "Why should a chronic abnormal chest radiograph not end the workup?",
+    "back": "Chronic lung findings are common and may be incidental. An unchanged infiltrate or scar does not explain a new acute syndrome unless the full clinical picture supports it. Correlate imaging with oxygenation, symptoms, and trajectory."
+  },
+  {
+    "id": 26,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What role do kidney disease and oral intake play in diagnostic reasoning?",
+    "back": "Chronic kidney disease and poor intake increase vulnerability to medication accumulation, dehydration, and metabolic derangements. In older adults, these factors can precipitate delirium and weakness and can alter the interpretation of laboratory and medication findings."
+  },
+  {
+    "id": 27,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What is the most useful question after a new fall or decline?",
+    "back": "Ask, 'What changed from baseline, and when did it change?' The timing and pace of decline help distinguish acute illness from chronic impairment, and they guide the differential toward reversible causes."
+  },
+  {
+    "id": 28,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "Why can normal white blood cell count be misleading?",
+    "back": "Older adults may not mount a strong leukocytosis even with significant illness. A normal count does not exclude infection, inflammation, or other acute stress. Use the entire clinical picture rather than a single laboratory value."
+  },
+  {
+    "id": 29,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What bedside clues suggest delirium rather than baseline dementia?",
+    "back": "Acute onset, fluctuating attention, altered arousal, disorganized thinking, and a clear change from baseline favor delirium. Dementia is chronic and usually does not fluctuate hour to hour. Superimposed delirium is common in people with dementia."
+  },
+  {
+    "id": 30,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "Why can urinary symptoms be absent in older adults with urinary illness?",
+    "back": "Cognitive impairment, communication barriers, sensory loss, and atypical inflammatory responses can blunt or obscure dysuria, urgency, and suprapubic discomfort. The absence of urinary complaints does not exclude urinary pathology, but positive urine tests still need clinical correlation."
+  },
+  {
+    "id": 31,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "What is a key prevention strategy for diagnostic error during transitions of care?",
+    "back": "Document the baseline function, cognition, mobility, and continence, along with the suspected trigger and pending studies. Clear handoff information helps the next clinician distinguish persistent illness from incomplete recovery or chronic impairment."
+  },
+  {
+    "id": 32,
+    "chapter": 2,
+    "domain": "diagnostic_reasoning",
+    "front": "How should goals of care influence the diagnostic approach?",
+    "back": "Goals of care help determine how aggressive the evaluation should be, especially in frail older adults with advanced comorbidity. The aim is to match the workup to likely benefit, burden, prognosis, and the patient’s preferences."
+  },
+  {
+    "id": 33,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "Why does antimicrobial stewardship matter especially in older adults?",
+    "back": "Older adults have more diagnostic uncertainty, more colonization, more comorbidity, and more medication burden. They are therefore more likely to be harmed by unnecessary antibiotics through renal injury, delirium, drug interactions, C difficile infection, and selection of resistant organisms."
+  },
+  {
+    "id": 34,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What is asymptomatic bacteriuria?",
+    "back": "Bacteriuria without localizing urinary symptoms or systemic signs of infection. In most older adults, including many in long-term care, it should not be treated because it usually represents colonization rather than infection."
+  },
+  {
+    "id": 35,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "Does pyuria prove urinary tract infection in an older adult?",
+    "back": "No. Pyuria indicates inflammation, not necessarily infection. It can accompany asymptomatic bacteriuria, chronic urinary abnormalities, or other noninfectious states. Clinical syndrome should drive treatment decisions."
+  },
+  {
+    "id": 36,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "Should delirium alone trigger antibiotics for presumed UTI?",
+    "back": "No. Delirium is nonspecific and has many causes, including dehydration, medications, constipation, urinary retention, hypoxia, and metabolic derangements. Antibiotics are appropriate only when the overall syndrome supports infection."
+  },
+  {
+    "id": 37,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What is a diagnostic stewardship principle for urine testing?",
+    "back": "Order urine testing only when the clinical picture suggests urinary infection or sepsis without another source. Testing in low-probability situations creates false positives and often leads to unnecessary antibiotics."
+  },
+  {
+    "id": 38,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "Why are chronic urinary symptoms common confounders in older adults?",
+    "back": "Incontinence, frequency, nocturia, and cloudy or foul-smelling urine are common in older adults and do not reliably distinguish infection from baseline urinary dysfunction or colonization."
+  },
+  {
+    "id": 39,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What should be done first when infection is plausible but the older adult is frail?",
+    "back": "Assess severity, localizing features, source control needs, renal function, medications, and goals of care. Supportive care and targeted diagnostics may be safer than reflex broad-spectrum treatment."
+  },
+  {
+    "id": 40,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What is source control in stewardship?",
+    "back": "Addressing the anatomic problem that sustains infection, such as removing an infected catheter, draining an abscess, relieving obstruction, or managing infected tissue. Antibiotics alone are often insufficient without source control."
+  },
+  {
+    "id": 41,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "When should empiric broad-spectrum antibiotics be narrowed?",
+    "back": "As soon as culture data, imaging, and clinical response allow. Reassess at 24 to 48 hours and de-escalate to the least broad effective agent or stop therapy if infection is not supported."
+  },
+  {
+    "id": 42,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "When is IV-to-oral switch appropriate?",
+    "back": "When the patient is hemodynamically stable, improving, can absorb oral medication, and an effective oral agent exists. This reduces line complications and treatment burden."
+  },
+  {
+    "id": 43,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "Why is duration a stewardship issue in older adults?",
+    "back": "Longer courses increase the risk of adverse drug effects, C difficile infection, interactions, and resistant organisms. Duration should match the syndrome and source control status rather than default habit."
+  },
+  {
+    "id": 44,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What harms are especially linked to broad-spectrum antibiotics?",
+    "back": "Selection of resistant organisms, C difficile infection, microbiome disruption, and more drug interactions or toxicities. These harms are amplified in older adults with frailty and multimorbidity."
+  },
+  {
+    "id": 45,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What is a delayed antibiotic prescription?",
+    "back": "A prescription given with instructions to start only if symptoms worsen or fail to improve after a short observation period. It can reduce unnecessary antibiotic use in selected stable outpatients with uncertain bacterial illness."
+  },
+  {
+    "id": 46,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "Which respiratory syndromes should not receive routine antibiotics?",
+    "back": "Most viral syndromes such as uncomplicated cough, rhinorrhea, hoarseness, and influenza-like illness without evidence of bacterial infection. Antivirals may be appropriate for selected viral diseases, but antibiotics are not."
+  },
+  {
+    "id": 47,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What medication review matters before prescribing antibiotics to an older adult?",
+    "back": "Check renal function, interacting drugs, prior adverse reactions, anticoagulants, hypoglycemics, and agents that increase delirium or QT prolongation risk. Polypharmacy often determines antibiotic safety."
+  },
+  {
+    "id": 48,
+    "chapter": 3,
+    "domain": "stewardship",
+    "front": "What should happen if the clinical course does not fit the presumed infection?",
+    "back": "Reopen the diagnosis rather than simply extending antibiotics. Consider dehydration, medication toxicity, urinary retention, aspiration, constipation, hypoxia, or other noninfectious causes."
+  },
+  {
+    "id": 49,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "Why can serum creatinine be misleading in frail older adults?",
+    "back": "Low muscle mass lowers creatinine production, so serum creatinine may appear normal despite reduced filtration. Dosing decisions should therefore use the full clinical context, including frailty, weight, urine output, and trends, not creatinine alone."
+  },
+  {
+    "id": 50,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "What is the main determinant of a loading dose?",
+    "back": "Loading dose is driven mainly by volume of distribution and desired target concentration. Clearance matters more for maintenance dosing. Renal impairment alone usually does not justify avoiding a needed loading dose."
+  },
+  {
+    "id": 51,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "How does hypoalbuminemia affect highly protein bound drugs?",
+    "back": "Lower albumin increases the unbound fraction of some highly protein bound drugs. That can increase active exposure and toxicity risk, while total serum concentration may appear misleading. Clinical response and, when available, free levels are more informative than total levels alone."
+  },
+  {
+    "id": 52,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "How do body composition changes alter drug distribution in older adults?",
+    "back": "Lean body mass and total body water decline, while body fat often increases. Hydrophilic drugs may have a smaller apparent distribution, raising peaks. Lipophilic drugs may distribute more widely into fat and persist longer."
+  },
+  {
+    "id": 53,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "When is creatinine-based renal estimation least reliable?",
+    "back": "It is least reliable in unstable kidney function, sarcopenia, extreme body size, and acute illness. In those settings, repeat assessment, urine output, and clinical response are critical."
+  },
+  {
+    "id": 54,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "What is the difference between loading and maintenance dosing?",
+    "back": "Loading dose rapidly reaches a target concentration and depends mostly on distribution. Maintenance dose sustains exposure over time and depends mostly on clearance. Confusing the two can lead to either delayed effect or drug accumulation."
+  },
+  {
+    "id": 55,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "Why might eGFR and estimated creatinine clearance not be interchangeable for dosing?",
+    "back": "They are derived for different purposes and may diverge in frail older adults or low muscle mass. Many drug labels or institutional protocols specify one estimate over the other. The chosen equation should match the dosing reference."
+  },
+  {
+    "id": 56,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "What bedside clues suggest renal drug accumulation?",
+    "back": "Delirium, sedation, weakness, anorexia, gait decline, bleeding, hypotension, and falls can all reflect accumulation. Older adults may present atypically, so toxicity may be mistaken for nonspecific decline."
+  },
+  {
+    "id": 57,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "How should acute kidney injury change medication decisions?",
+    "back": "Use frequent reassessment, because creatinine estimates lag behind true kidney function. Adjust renally cleared drugs thoughtfully, not automatically. Consider urine output, trends, and drug levels when available."
+  },
+  {
+    "id": 58,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "What does low albumin change besides total drug levels?",
+    "back": "It changes the relationship between total and free drug exposure. A normal total concentration may hide elevated active drug. Interpreting levels without albumin can mislead dosing decisions."
+  },
+  {
+    "id": 59,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "When should a clinician consider a different route of administration?",
+    "back": "When swallowing is unsafe, oral intake is poor, absorption is uncertain, or delirium prevents reliable adherence. Route choice is part of pharmacokinetic management, not just a convenience issue."
+  },
+  {
+    "id": 60,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "What is the main safety issue at transitions of care after AKI?",
+    "back": "The postdischarge team must know the renal estimate used, the medication dose logic, and when repeat labs are due. Without that context, the patient may continue an unsafe dose or lose needed therapy."
+  },
+  {
+    "id": 61,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "How do supportive measures affect pharmacokinetics?",
+    "back": "Volume repletion can improve renal perfusion and reduce accumulation. Nutrition, albumin status, and hemodynamics also influence distribution and clearance. Pharmacokinetic management is often incomplete without correcting the underlying physiology."
+  },
+  {
+    "id": 62,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "Why can lipophilic drugs persist longer in older adults?",
+    "back": "Increased body fat can create a larger reservoir for lipophilic drugs, prolonging terminal elimination. Repeated dosing may therefore cause delayed accumulation and late adverse effects."
+  },
+  {
+    "id": 63,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "What should be documented when a renal dose is chosen?",
+    "back": "Document the kidney estimate used, the reason for the selected dose or interval, any loading dose decision, and the plan for reassessment. Clear documentation reduces error during handoff."
+  },
+  {
+    "id": 64,
+    "chapter": 4,
+    "domain": "pharmacokinetics",
+    "front": "How should a clinician respond when a drug level and the bedside picture conflict?",
+    "back": "Reassess timing of the sample, albumin, renal function, and clinical status. A single concentration is not enough. In older adults, the bedside picture often clarifies whether the issue is toxicity, underexposure, or sampling error."
+  },
+  {
+    "id": 65,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "How is sepsis defined clinically in older adults?",
+    "back": "Sepsis is infection accompanied by acute organ dysfunction. In older adults, the diagnosis often depends on change from baseline, including delirium, weakness, hypotension, hypoxemia, oliguria, or rising creatinine, because fever and leukocytosis may be absent or muted."
+  },
+  {
+    "id": 66,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "Why can sepsis present atypically in frail older adults?",
+    "back": "Aging blunts immune and inflammatory responses and reduces physiologic reserve. Older adults may not mount fever or marked leukocytosis, yet they can still develop early hypoperfusion and organ dysfunction because cardiovascular compensation is limited."
+  },
+  {
+    "id": 67,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What is a high value bedside clue to sepsis in geriatrics?",
+    "back": "An abrupt functional or cognitive decline. New inability to transfer, walk, eat, or take medications can be the equivalent of fever in an older adult and may precede dramatic vital sign abnormalities."
+  },
+  {
+    "id": 68,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "Why is lactate helpful but not diagnostic by itself?",
+    "back": "Lactate reflects severity and perfusion stress, but it is not specific for sepsis. It may rise with hypoperfusion, adrenergic stress, impaired clearance, seizures, or other shock states. Interpret it with the overall clinical picture."
+  },
+  {
+    "id": 69,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What is the usual first line vasopressor for septic shock?",
+    "back": "Norepinephrine. It is generally first line for persistent hypotension or hypoperfusion after reasonable fluid resuscitation. In older adults, vasopressor need should be weighed against cardiac reserve and goals of care."
+  },
+  {
+    "id": 70,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "When should cultures be drawn in suspected sepsis?",
+    "back": "Obtain blood cultures and any source specific cultures promptly when doing so does not cause meaningful delay to antibiotics. Cultures should support organism identification and later narrowing, not postpone treatment in an unstable patient."
+  },
+  {
+    "id": 71,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What does source control mean in sepsis?",
+    "back": "Source control is removal or control of the infectious focus, such as drainage of abscess, debridement of infected tissue, removal of infected devices when appropriate, or relief of obstruction. Antibiotics alone are often insufficient without it."
+  },
+  {
+    "id": 72,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "How should fluids be approached in older adults with suspected septic shock?",
+    "back": "Give crystalloids for hypoperfusion, but reassess frequently because older adults are vulnerable to pulmonary edema and heart failure exacerbation. Use blood pressure, perfusion, urine output, and exam to judge response after each bolus."
+  },
+  {
+    "id": 73,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "Why is creatinine less reassuring in frail older adults?",
+    "back": "Low muscle mass can make baseline creatinine deceptively low, so a seemingly small rise may represent significant kidney injury. Renal reserve is often limited, which affects both prognosis and drug dosing."
+  },
+  {
+    "id": 74,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What should trigger reconsideration of the diagnosis if a patient does not improve?",
+    "back": "Persistent hypotension, rising lactate, worsening renal function, ongoing delirium, or lack of clinical improvement should prompt reassessment for missed source, inadequate source control, another shock state, or medication toxicity."
+  },
+  {
+    "id": 75,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "Why is de escalation of antibiotics emphasized after cultures return?",
+    "back": "Culture guided narrowing reduces toxicity, C difficile risk, drug interactions, and collateral damage from broad spectrum therapy. In older adults, this is especially important because renal clearance and medication burden often increase adverse effects."
+  },
+  {
+    "id": 76,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What is a key safety concern with sepsis treatment in older adults?",
+    "back": "Polypharmacy and organ vulnerability. Antihypertensives, diuretics, sedatives, anticoagulants, and nephrotoxic drugs can complicate resuscitation and recovery. Medication reconciliation and renal dose adjustment are central to safe care."
+  },
+  {
+    "id": 77,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "How should treatment goals be framed in frail older adults with sepsis?",
+    "back": "Match the intensity of treatment to baseline function, cognitive status, comorbidity burden, and patient preferences. Clarify whether the goal is recovery, life prolongation, or comfort focused care before escalation decisions become urgent."
+  },
+  {
+    "id": 78,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What clinical sign may appear before blood pressure falls in sepsis?",
+    "back": "Tachypnea, altered mentation, cool extremities, oliguria, or a rising lactate may appear before frank hypotension. Older adults can deteriorate quickly once compensatory mechanisms fail."
+  },
+  {
+    "id": 79,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "Why can a positive urine culture be misleading in older adults?",
+    "back": "Bacteriuria is common and may not explain delirium or organ dysfunction by itself. Sepsis diagnosis requires infection plus organ dysfunction, so a positive culture must be interpreted with symptoms, exam, and alternative explanations."
+  },
+  {
+    "id": 80,
+    "chapter": 5,
+    "domain": "sepsis",
+    "front": "What should happen after hemodynamic stabilization?",
+    "back": "Continue monitoring organ function, mental status, urine output, and lactate trend, then narrow antibiotics, finalize source control, and plan rehabilitation or disposition. In older adults, recovery of function often continues after vital signs normalize."
+  },
+  {
+    "id": 81,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What clinical pattern favors viral pharyngitis over streptococcal disease?",
+    "back": "Cough, rhinorrhea, hoarseness, and oral ulceration favor viral pharyngitis. Group A streptococcal disease is more likely with fever, tonsillar exudate, tender anterior cervical nodes, and absence of cough. In older adults, also consider reflux, xerostomia, medication effects, and oral candidiasis."
+  },
+  {
+    "id": 82,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "When are antibiotics reasonable for acute pharyngitis?",
+    "back": "Antibiotics are reasonable when group A streptococcal pharyngitis is clinically plausible and supported by testing or strong suspicion. Penicillin or amoxicillin are standard options when tolerated. Most sore throats in older adults are viral and should receive supportive care instead."
+  },
+  {
+    "id": 83,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What clinical course suggests bacterial sinusitis rather than viral rhinosinusitis?",
+    "back": "Persistent symptoms without improvement, worsening after initial improvement, or severe unilateral facial pain with purulent drainage support acute bacterial rhinosinusitis. Most cases remain viral. Sinus CT is not needed for routine outpatient diagnosis and may show incidental changes."
+  },
+  {
+    "id": 84,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What is first-line antibiotic therapy for adult bacterial sinusitis?",
+    "back": "Amoxicillin clavulanate is a standard first-line choice when acute bacterial sinusitis is likely. Supportive care with saline irrigation, analgesics, and sometimes intranasal corticosteroids is also useful. Decongestants can be limited by hypertension, urinary retention, glaucoma, and insomnia in older adults."
+  },
+  {
+    "id": 85,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "How do otitis externa and otitis media differ clinically?",
+    "back": "Otitis externa involves the external canal and typically causes canal tenderness, swelling, and pain with manipulation. Otitis media is a middle ear infection and requires otoscopic evidence of middle ear involvement. Older adults with severe pain, diabetes, or cranial nerve findings need urgent evaluation for invasive disease."
+  },
+  {
+    "id": 86,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "When are systemic antibiotics needed for otitis externa?",
+    "back": "Most otitis externa cases are treated with local care and topical therapy. Systemic antibiotics are reserved for extension beyond the canal, severe disease, immunocompromise, or concern for necrotizing infection. Pain control and close follow up are part of treatment."
+  },
+  {
+    "id": 87,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "Why do antibiotics usually not help acute bronchitis?",
+    "back": "Acute bronchitis is usually a viral or inflammatory airway syndrome characterized by cough without focal pneumonia findings. Antibiotics do not shorten the course in most cases. Supportive care, hydration, and treatment of bronchospasm when present are more useful."
+  },
+  {
+    "id": 88,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "Which findings make COPD exacerbation more likely to benefit from antibiotics?",
+    "back": "Increased dyspnea plus increased sputum volume and sputum purulence suggest a bacterial COPD exacerbation. Antibiotics are also more likely to be used in severe illness or when ventilatory support is needed. Bronchodilators and short course systemic corticosteroids remain central therapy."
+  },
+  {
+    "id": 89,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What supportive treatments matter in COPD exacerbation?",
+    "back": "Short-acting bronchodilators, oxygen when indicated, and a short course of systemic corticosteroids are standard supportive treatments. Monitor for hypoxemia, hypercapnia, delirium, and ability to use inhalers. Poor inhaler technique is common in older adults and should be corrected."
+  },
+  {
+    "id": 90,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What makes pertussis more likely in an adult with cough?",
+    "back": "Prolonged paroxysmal cough, posttussive emesis, known exposure, or outbreak context should raise suspicion for pertussis. Adults often lack the classic whoop. Testing is most useful early, and macrolide therapy helps reduce transmission."
+  },
+  {
+    "id": 91,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What is the main role of antibiotics in pertussis?",
+    "back": "Antibiotics mainly reduce transmission, especially when started early. They may also lessen symptoms if given before the cough has been present for long. Late treatment is less likely to improve the cough itself, but may still reduce spread in high-risk settings."
+  },
+  {
+    "id": 92,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "Why are older adults at higher risk from unnecessary respiratory antibiotics?",
+    "back": "Older adults are more vulnerable to diarrhea, renal injury, neurotoxicity, drug interactions, QT prolongation, and Clostridioides difficile infection. Polypharmacy and renal dosing errors increase harm. Avoiding unnecessary antibiotics is a key safety strategy."
+  },
+  {
+    "id": 93,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "Which medication issues matter most when prescribing respiratory antibiotics to older adults?",
+    "back": "Review warfarin, antiarrhythmics, statins, hypoglycemic agents, and renal function before prescribing. Macrolides and fluoroquinolones are common interaction sources. A normal serum creatinine may mask reduced kidney function in older adults with low muscle mass."
+  },
+  {
+    "id": 94,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What geriatric features can mask respiratory infection severity?",
+    "back": "Hearing loss, cognitive impairment, frailty, dehydration, and reduced symptom reporting can hide significant illness. Family or caregiver history may reveal new confusion, reduced intake, or functional decline. These changes can matter more than fever in older adults."
+  },
+  {
+    "id": 95,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What transition-of-care steps reduce respiratory infection harm?",
+    "back": "Reconcile medications, clarify the duration and purpose of new drugs, review inhaler or nasal therapy technique, and give clear return precautions. In facility residents, communicate the reassessment plan and criteria for escalation. This reduces adverse events and unnecessary readmissions."
+  },
+  {
+    "id": 96,
+    "chapter": 6,
+    "domain": "respiratory",
+    "front": "What should clinicians ask before treating cough in an older adult?",
+    "back": "Ask about duration, dyspnea, wheeze, sputum change, chest pain, reflux, ACE inhibitor use, smoking history, and COPD or asthma. This history helps separate acute bronchitis from COPD exacerbation or a noninfectious cause."
+  },
+  {
+    "id": 97,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "How does pneumonia present differently in older adults?",
+    "back": "Older adults often lack fever and pleuritic pain. Delirium, falls, anorexia, weakness, tachypnea, or functional decline may be the first clues. A subtle presentation should not lower suspicion when new respiratory symptoms or hypoxemia are present."
+  },
+  {
+    "id": 98,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What distinguishes aspiration pneumonitis from aspiration pneumonia?",
+    "back": "Aspiration pneumonitis is chemical lung injury from sterile gastric contents, usually abrupt and often improving with supportive care. Aspiration pneumonia is infection after aspiration of colonized oropharyngeal material, often with persistent infiltrate, fever, or worsening over time."
+  },
+  {
+    "id": 99,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "When should antibiotics be withheld after a witnessed aspiration event?",
+    "back": "Withhold antibiotics when the pattern fits aspiration pneumonitis and the patient improves quickly with oxygen, suctioning, and observation. Reassess within the next day or two, because persistent fever, purulent sputum, or worsening infiltrates suggests infection."
+  },
+  {
+    "id": 100,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What features push an older adult with pneumonia toward inpatient care?",
+    "back": "Hypoxemia, hypotension, confusion, tachypnea, multilobar disease, inability to swallow safely, and inability to maintain oral intake all favor hospital treatment. Frailty and poor baseline function lower the threshold for admission and closer monitoring."
+  },
+  {
+    "id": 101,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What is the usual empiric approach for hospitalized community acquired pneumonia?",
+    "back": "Common standard options are a beta lactam plus a macrolide or a respiratory fluoroquinolone, chosen according to severity, drug interactions, renal function, and local susceptibility patterns. Narrower therapy is preferred when clinically appropriate."
+  },
+  {
+    "id": 102,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "When is extra anaerobic coverage needed in aspiration pneumonia?",
+    "back": "Routine extra anaerobic coverage is usually unnecessary. Consider it when there is lung abscess, empyema, or necrotizing infection, or when severe periodontal disease suggests substantial anaerobic burden."
+  },
+  {
+    "id": 103,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "Why is prior respiratory culture history valuable?",
+    "back": "Prior respiratory isolation of a resistant organism strongly influences empiric therapy because the same pathogen class may recur. This history is more informative than residence status alone when deciding whether broader coverage is needed."
+  },
+  {
+    "id": 104,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What should you monitor during pneumonia treatment in frail older adults?",
+    "back": "Follow oxygenation, delirium, renal function, hemodynamics, oral intake, medication toxicity, and functional trajectory. Reassess daily for improvement, complications, or a need to search for abscess, effusion, heart failure, or another diagnosis."
+  },
+  {
+    "id": 105,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "Why can fluoroquinolones be problematic in older adults?",
+    "back": "They can worsen delirium, prolong QT interval, cause tendinopathy, and contribute to dysglycemia. In older adults with multimorbidity and polypharmacy, these risks may outweigh convenience when alternatives exist."
+  },
+  {
+    "id": 106,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "Why do macrolides require caution in older adults?",
+    "back": "Macrolides can prolong QT interval and interact with other medications. In patients taking antiarrhythmics, antipsychotics, or multiple psychotropics, the interaction burden may be clinically important."
+  },
+  {
+    "id": 107,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "How does kidney disease change pneumonia treatment?",
+    "back": "Chronic kidney disease can require dose adjustment for beta lactams and other antibiotics to reduce toxicity. Renal function should be checked during treatment, especially when delirium, dehydration, or acute kidney injury are present."
+  },
+  {
+    "id": 108,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What supportive measures help recovery from pneumonia?",
+    "back": "Supplemental oxygen, hydration, mobility, nutrition support, secretion clearance, and treatment of contributing problems such as constipation or medication sedation all support recovery. These measures matter as much as antibiotic selection in frail older adults."
+  },
+  {
+    "id": 109,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "Why is oral care relevant in aspiration prevention?",
+    "back": "Poor oral hygiene increases the burden of pathogenic oral flora that can be aspirated into the lower airway. Regular oral care may reduce aspiration related infection risk and supports overall frailty care."
+  },
+  {
+    "id": 110,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What is the role of swallowing evaluation?",
+    "back": "Swallowing evaluation identifies dysphagia, guides compensatory strategies and diet changes, and helps clarify aspiration risk. It is especially useful after stroke, in Parkinson disease, dementia, recurrent pneumonia, or coughing with meals."
+  },
+  {
+    "id": 111,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "Why do feeding tubes not solve aspiration risk?",
+    "back": "Feeding tubes do not reliably prevent aspiration because patients can still aspirate oral secretions, refluxate, or regurgitated feeds. In advanced frailty or dementia, they should not be assumed to improve pneumonia outcomes."
+  },
+  {
+    "id": 112,
+    "chapter": 7,
+    "domain": "pneumonia",
+    "front": "What should discharge planning include after pneumonia?",
+    "back": "Specify the antibiotic stop date, oxygen needs, follow-up plan, warning symptoms, and any swallowing or diet recommendations. Clear transitions reduce medication errors and help detect recurrence or delayed complications early."
+  },
+  {
+    "id": 113,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "How do influenza symptoms often differ in older adults?",
+    "back": "Older adults may present with delirium, weakness, dehydration, anorexia, or functional decline rather than classic fever and myalgias. A normal temperature does not exclude influenza."
+  },
+  {
+    "id": 114,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What is the usual first-line antiviral for influenza in older adults?",
+    "back": "Oseltamivir is the usual first-line option for many older adults, including hospitalized patients, because it is well established and orally available. Standard adult treatment is 75 mg twice daily for 5 days, with renal adjustment when needed."
+  },
+  {
+    "id": 115,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "When should influenza treatment begin in a high-risk older adult?",
+    "back": "Start antiviral therapy as soon as influenza is suspected when the patient is at high risk for complications. Do not wait for confirmatory testing if clinical suspicion is high."
+  },
+  {
+    "id": 116,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "Why can a negative rapid influenza test be misleading?",
+    "back": "Rapid antigen tests can be falsely negative, especially with poor sampling, lower viral burden, or testing outside the optimal window. In high-risk older adults, a negative result does not reliably exclude influenza."
+  },
+  {
+    "id": 117,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "How does RSV usually affect immunocompetent older adults?",
+    "back": "RSV can cause significant lower respiratory tract illness in frail older adults, but routine treatment is usually supportive rather than antiviral. Oxygen, hydration, and treatment of bronchospasm or chronic disease exacerbation are central."
+  },
+  {
+    "id": 118,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What is the role of vaccination in preventing influenza and RSV?",
+    "back": "Seasonal influenza vaccination remains a cornerstone of prevention in older adults. RSV vaccination is also part of prevention for eligible older adults according to current recommendations and local availability."
+  },
+  {
+    "id": 119,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What should happen when influenza appears in a nursing home?",
+    "back": "Prompt isolation of symptomatic residents, hand hygiene, staff masking per local policy, cohorting when possible, and surveillance of exposed residents should begin quickly. A single case can signal an outbreak."
+  },
+  {
+    "id": 120,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "Which supportive measures are most useful for viral respiratory illness in frail elders?",
+    "back": "Hydration, oxygen when needed, bronchodilators for bronchospasm, and treatment of exacerbations of heart failure or chronic lung disease are often central. Function, mentation, and oral intake should be monitored closely."
+  },
+  {
+    "id": 121,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "Why is frailty so important in influenza management?",
+    "back": "Frailty lowers physiologic reserve, so even modest viral illness can cause delirium, falls, dehydration, and prolonged loss of independence. Treatment decisions should incorporate baseline function and recovery goals."
+  },
+  {
+    "id": 122,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "How should kidney function affect oseltamivir use?",
+    "back": "Oseltamivir requires renal dose adjustment when kidney function is reduced. Older adults with chronic kidney disease or acute kidney injury need medication review before treatment."
+  },
+  {
+    "id": 123,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What medication classes commonly worsen the course of respiratory virus illness in older adults?",
+    "back": "Sedative hypnotics, first generation antihistamines, and combination cold products can worsen delirium, urinary retention, constipation, and falls. Medication reconciliation is essential during acute illness."
+  },
+  {
+    "id": 124,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What clinical features suggest a need to reassess for complications?",
+    "back": "Worsening hypoxemia, escalating confusion, inability to drink, hemodynamic instability, or a course that is severe or prolonged should prompt reevaluation for complications or another diagnosis."
+  },
+  {
+    "id": 125,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What is the main goal of source control in respiratory virus outbreaks?",
+    "back": "Source control limits viral spread by reducing exposure from symptomatic patients and staff. Isolation, masking, hand hygiene, and cohorting are key tools in congregate settings."
+  },
+  {
+    "id": 126,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "How can goals of care shape influenza treatment decisions in frail elders?",
+    "back": "Treatment should match the patient’s priorities, baseline function, and acceptable burdens of care. Some patients prefer facility-based treatment and symptom relief over hospitalization, if that is medically reasonable."
+  },
+  {
+    "id": 127,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "What should discharge instructions emphasize after a respiratory virus admission?",
+    "back": "Residual isolation needs, medication plan, hydration, fall prevention, and warning signs for reevaluation should be clearly documented. Transitions of care are a high-risk period for frail older adults."
+  },
+  {
+    "id": 128,
+    "chapter": 8,
+    "domain": "influenza",
+    "front": "Why do older adults need special attention during respiratory virus season?",
+    "back": "Age-related immune change, multimorbidity, and reduced reserve make influenza and RSV more likely to cause hospitalization, delirium, functional loss, and prolonged recovery even when initial symptoms seem modest."
+  },
+  {
+    "id": 129,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What atypical presentations of acute COVID-19 are common in older adults?",
+    "back": "Delirium, anorexia, functional decline, falls, and worsening chronic disease can be the dominant presentations. Respiratory symptoms may be mild or delayed. Compare carefully with baseline cognition, gait, toileting, and oral intake."
+  },
+  {
+    "id": 130,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "Why does timing matter so much for COVID-19 antivirals?",
+    "back": "Antivirals work best early, when viral replication is a major driver of disease. Delays can push the patient beyond the window where treatment provides meaningful benefit, especially in older adults at high risk for progression."
+  },
+  {
+    "id": 131,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What is the standard outpatient nirmatrelvir plus ritonavir dose?",
+    "back": "Nirmatrelvir 300 mg with ritonavir 100 mg by mouth twice daily for 5 days, when renal function allows full dosing. Renal dose reduction is required for moderate impairment, and severe renal failure generally precludes standard outpatient use."
+  },
+  {
+    "id": 132,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What is the major safety issue with ritonavir in older adults?",
+    "back": "Ritonavir is a strong CYP3A inhibitor and can raise levels of many chronic drugs, including some anticoagulants, statins, sedatives, and antiarrhythmics. Medication reconciliation and interaction screening are essential before prescribing."
+  },
+  {
+    "id": 133,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "When is remdesivir a reasonable alternative?",
+    "back": "When nirmatrelvir plus ritonavir is unsuitable because of drug interactions or renal constraints, and the patient is still early in illness. Early outpatient dosing is 200 mg intravenously on day 1, then 100 mg intravenously daily for 2 more days."
+  },
+  {
+    "id": 134,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "When is supplemental oxygen indicated in COVID-19?",
+    "back": "When the patient is hypoxemic. Routine oxygen is not used in patients with preserved saturation. In older adults, reassess baseline oxygenation and look for new decline rather than relying on symptoms alone."
+  },
+  {
+    "id": 135,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What supportive measures matter most for frail older adults with COVID-19?",
+    "back": "Hydration, delirium prevention, pressure injury prevention, mobilization as tolerated, sleep support, and review of medications that worsen hypotension, sedation, renal perfusion, or falls."
+  },
+  {
+    "id": 136,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "How should a positive COVID test be interpreted in an older adult with new symptoms?",
+    "back": "A positive test confirms infection but does not prove all new symptoms are due to COVID-19. Evaluate for heart failure, aspiration, bacterial pneumonia, venous thromboembolism, urinary issues, and medication adverse effects when indicated."
+  },
+  {
+    "id": 137,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What should trigger concern for severe disease in a frail older adult?",
+    "back": "New confusion, hypoxemia, tachypnea, chest pain, hemodynamic instability, or a sharp functional decline. Older adults may deteriorate before they report classic respiratory complaints."
+  },
+  {
+    "id": 138,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What does long COVID or post-acute sequelae require clinically?",
+    "back": "A structured evaluation for deconditioning, cardiopulmonary disease, mood disorders, autonomic symptoms, medication effects, and functional loss. Rehabilitation and paced activity may help, but alternative diagnoses should not be overlooked."
+  },
+  {
+    "id": 139,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "Why is baseline function important in COVID-19 assessment?",
+    "back": "Small changes in walking, eating, toileting, or cognition may represent major physiologic decline in frail adults. Baseline function helps determine severity, disposition, and recovery needs."
+  },
+  {
+    "id": 140,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What role does cognition play in COVID-19 management decisions?",
+    "back": "Cognitive impairment can obscure symptom onset, complicate consent, and increase delirium risk. Caregiver history and shared decision making are often needed to choose therapy that matches goals of care."
+  },
+  {
+    "id": 141,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "How should persistent dyspnea after COVID-19 be approached?",
+    "back": "Do not assume it is post-viral alone. Evaluate for heart failure, pulmonary embolism, anemia, deconditioning, medication effects, and ongoing hypoxemia, especially in older adults with multimorbidity."
+  },
+  {
+    "id": 142,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What is a key transition-of-care task after COVID-19 hospitalization?",
+    "back": "Communicate medication changes, held drugs, oxygen or rehab needs, isolation guidance if locally relevant, and symptoms that require urgent reassessment. Early follow-up reduces readmission risk."
+  },
+  {
+    "id": 143,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "Why are goals of care central in older adults with COVID-19?",
+    "back": "Frailty, multimorbidity, and limited physiologic reserve mean treatment burden may outweigh benefit for some patients. Decisions about antivirals, hospitalization, ICU care, and rehabilitation should align with the patient’s priorities."
+  },
+  {
+    "id": 144,
+    "chapter": 9,
+    "domain": "covid",
+    "front": "What is the main reason to avoid assuming all persistent symptoms are long COVID?",
+    "back": "Older adults commonly have overlapping cardiopulmonary disease, medication toxicity, depression, and deconditioning. A post-viral label should not replace careful reassessment."
+  },
+  {
+    "id": 145,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "Why is bacteriuria common in older adults without infection?",
+    "back": "Age-related urinary stasis, incontinence, incomplete emptying, catheter use, and healthcare exposure all raise the background prevalence of colonization. A positive culture shows bacteria in the urine, not necessarily symptomatic infection. Clinical symptoms and syndrome recognition remain essential."
+  },
+  {
+    "id": 146,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What symptom pattern most supports cystitis?",
+    "back": "Dysuria, urgency, frequency, suprapubic pain, or new gross hematuria support lower urinary tract infection when no better explanation exists. Systemic symptoms such as fever or flank pain suggest upper tract disease instead."
+  },
+  {
+    "id": 147,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "Which findings do not diagnose UTI by themselves?",
+    "back": "Pyuria, bacteriuria, cloudy urine, and foul odor are nonspecific in older adults. These findings are common with asymptomatic bacteriuria and catheter colonization. They should not trigger antibiotics without a compatible syndrome."
+  },
+  {
+    "id": 148,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "How should delirium be approached when a urine test is positive?",
+    "back": "A positive urine test rarely proves that delirium is caused by the urinary tract. Assess dehydration, constipation, urinary retention, hypoxia, medication effects, pain, and other infections first. Treat only if a urinary syndrome or another compelling reason is present."
+  },
+  {
+    "id": 149,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What is asymptomatic bacteriuria?",
+    "back": "It is bacteriuria without urinary symptoms attributable to infection. In most older adults, including many in long-term care, it should not be treated because therapy does not improve outcomes and increases adverse effects and resistance."
+  },
+  {
+    "id": 150,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "When is urine culture most useful?",
+    "back": "Culture is most useful when there are urinary localizing symptoms, suspected pyelonephritis, prostatitis, catheter-associated symptomatic infection, or treatment failure. It should not be used to justify treatment of nonspecific symptoms alone."
+  },
+  {
+    "id": 151,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "How should urine be collected in a catheterized patient?",
+    "back": "Collect from the catheter sampling port using aseptic technique, not from the drainage bag. If infection is suspected and the catheter is old, replacement improves source control and culture accuracy."
+  },
+  {
+    "id": 152,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What makes catheter-associated infection different from simple cystitis?",
+    "back": "The catheter provides a surface for biofilm and makes bacteriuria common. Symptoms may be systemic rather than local, and source control by removing or replacing the catheter is central to management."
+  },
+  {
+    "id": 153,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What clinical features suggest pyelonephritis?",
+    "back": "Fever, flank pain, costovertebral tenderness, nausea, vomiting, and systemic illness support upper tract infection. Frail older adults may present atypically, but localizing or systemic features are still needed before treatment."
+  },
+  {
+    "id": 154,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "Why is prostatitis important in older men?",
+    "back": "Fever with pelvic, perineal, or obstructive urinary symptoms in a man suggests prostate involvement. This requires different thinking than cystitis because the infected compartment often needs longer treatment and careful evaluation for retention."
+  },
+  {
+    "id": 155,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "Which drugs raise concern in older adults with CKD when treating UTI?",
+    "back": "Trimethoprim-sulfamethoxazole can raise potassium and interact with ACE inhibitors, ARBs, or spironolactone. Drug choice should also consider renal function, allergies, and local susceptibility patterns."
+  },
+  {
+    "id": 156,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "Why is nitrofurantoin not used for pyelonephritis or prostatitis?",
+    "back": "It is a lower tract drug and does not provide adequate tissue activity for renal parenchymal infection or prostate involvement. It may be reasonable for selected uncomplicated cystitis if renal function and other factors permit."
+  },
+  {
+    "id": 157,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What is the role of imaging in urinary infection?",
+    "back": "Imaging is reserved for suspected obstruction, stones, abscess, severe illness, recurrent pyelonephritis, or failure to improve. It is not routine for simple cystitis or incidental bacteriuria."
+  },
+  {
+    "id": 158,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What is the main stewardship principle in this chapter?",
+    "back": "Treat the syndrome, not the culture. Narrow therapy when data return, avoid antibiotics for asymptomatic bacteriuria, and reassess diagnosis when symptoms or the clinical course do not fit urinary infection."
+  },
+  {
+    "id": 159,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What geriatric factors change UTI decisions most often?",
+    "back": "Frailty, cognition, functional dependence, catheter use, chronic kidney disease, multimorbidity, urinary retention, and goals of care all influence diagnosis and treatment. These factors often matter more than the culture result alone."
+  },
+  {
+    "id": 160,
+    "chapter": 10,
+    "domain": "urinary",
+    "front": "What should be documented during transitions of care?",
+    "back": "Document why urine testing was done, what symptoms were present, whether a catheter was removed or replaced, culture results, antibiotic rationale, renal considerations, and whether ongoing treatment remains justified."
+  },
+  {
+    "id": 161,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "How do nonpurulent cellulitis and abscess differ clinically?",
+    "back": "Nonpurulent cellulitis presents as diffuse erythema, warmth, and tenderness without a drainable collection. Abscess is a localized pus collection, often fluctuant or draining. The distinction matters because abscess treatment usually requires incision and drainage, while nonpurulent cellulitis is treated primarily with systemic antibiotics targeting streptococci unless other features suggest broader coverage."
+  },
+  {
+    "id": 162,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "Why can cellulitis be harder to recognize in older adults?",
+    "back": "Older adults may have blunted fever, less prominent leukocytosis, chronic edema, altered skin pigmentation, and reduced pain reporting. Delirium, weakness, falls, or functional decline may be the first clues. Compare both sides, examine for a portal of entry, and reassess frequently if the diagnosis is uncertain."
+  },
+  {
+    "id": 163,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What is the key treatment principle for an abscess?",
+    "back": "Source control is central. Incision and drainage is usually required because antibiotics alone often do not penetrate an organized pus collection well. Add systemic antibiotics when there is extensive surrounding cellulitis, systemic illness, advanced age with poor reserve, or impaired host defenses."
+  },
+  {
+    "id": 164,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What bedside findings raise concern for necrotizing soft tissue infection?",
+    "back": "Pain out of proportion, rapid progression, bullae, skin anesthesia, crepitus, dusky discoloration, and systemic toxicity are concerning. These findings warrant urgent surgical evaluation and broad empiric therapy. Do not delay consultation for imaging if the clinical suspicion is high."
+  },
+  {
+    "id": 165,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "Why are bilateral red legs often not cellulitis?",
+    "back": "Bilateral erythema with scaling, pruritus, chronic edema, and poor antibiotic response often suggests venous stasis dermatitis, lymphedema, or contact dermatitis rather than bacterial cellulitis. True cellulitis is usually unilateral and more acute, though exceptions exist."
+  },
+  {
+    "id": 166,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What makes a pressure injury clinically infected rather than merely colonized?",
+    "back": "Look for spreading erythema, warmth, tenderness, increased exudate, foul odor with inflammatory change, necrosis, and systemic features. Colonization alone does not prove invasive infection. Source control includes offloading, moisture management, debridement when appropriate, and wound care matched to the lesion."
+  },
+  {
+    "id": 167,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "Why are wound and skin assessments essential in frail patients with delirium?",
+    "back": "Delirium may be the presenting sign of infection, and frail patients may not report pain clearly. A focused skin exam can identify a portal of entry, abscess, pressure injury, or necrotizing process early. Early recognition changes disposition, source control needs, and antibiotic choice."
+  },
+  {
+    "id": 168,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What initial management steps are important for an infected bite wound?",
+    "back": "Copious cleansing, evaluation for retained foreign body or deep structure involvement, tetanus review, and systemic antibiotics when indicated. Bite wounds often involve mixed flora from the mouth and skin. Hand bites, contaminated wounds, and delayed presentations need especially careful follow-up."
+  },
+  {
+    "id": 169,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "When should antibiotics be narrowed in skin and soft tissue infection?",
+    "back": "Narrow therapy once the clinical syndrome is clear, cultures or exposure history support a smaller spectrum, and the patient is improving. De-escalation lowers drug toxicity, C. difficile risk, and resistance pressure. Persistent redness alone does not always mean ongoing active infection."
+  },
+  {
+    "id": 170,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What is the best approach to preventing recurrent cellulitis?",
+    "back": "Address the underlying skin barrier problem: edema control, emollients, treatment of tinea pedis or fissures, proper footwear, and prompt care of minor trauma. Repeated empiric antibiotics are not the main preventive strategy unless a specialist identifies a specific indication."
+  },
+  {
+    "id": 171,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "Why is kidney function so important in older adults with skin infection?",
+    "back": "Kidney dysfunction affects antibiotic selection, dosing, and toxicity risk. It also influences hydration strategy and the safety of concurrent drugs such as diuretics, ACE inhibitors, and anticoagulants. Frequent reassessment is needed when renal function is unstable or baseline reserve is limited."
+  },
+  {
+    "id": 172,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What is a practical geriatric clue to severe skin infection?",
+    "back": "New confusion, reduced mobility, refusal to bear weight, or abrupt decline in self-care can signal significant infection even without fever. In older adults, functional change may be more informative than a classic inflammatory response."
+  },
+  {
+    "id": 173,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "Why can fluoroquinolones be poor default choices in frail older adults?",
+    "back": "They can worsen confusion, prolong the QT interval, increase tendon toxicity, and contribute to other adverse effects. They are not routine first-line therapy for most skin infections and should be reserved for situations where their spectrum is specifically needed."
+  },
+  {
+    "id": 174,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What care elements matter when a patient is discharged with wound treatment?",
+    "back": "Written instructions should specify dressing changes, offloading, medication schedule, warning signs, and who will reassess the wound. Transition failures commonly lead to missed care, duplicated antibiotics, and delayed recognition of worsening infection, especially in assisted living or long-term care."
+  },
+  {
+    "id": 175,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "How should clinicians think about erysipelas compared with cellulitis?",
+    "back": "Erysipelas is typically more superficial with a raised, sharply demarcated border, while cellulitis is deeper and less clearly marginated. Both may reflect streptococcal infection, but erysipelas is usually easier to outline on exam and often has a more abrupt edge."
+  },
+  {
+    "id": 176,
+    "chapter": 11,
+    "domain": "skin",
+    "front": "What symptom pattern should prompt reconsideration of a 'simple cellulitis' diagnosis?",
+    "back": "Bilateral involvement, chronic itch, scaling, slow progression, lack of fever, and no response to appropriate antibiotics should prompt reconsideration. Mimics such as stasis dermatitis, lymphedema, and contact dermatitis are common in older adults and can be mistaken for infection."
+  },
+  {
+    "id": 177,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What makes a diabetic foot infection limb threatening?",
+    "back": "Depth of infection, necrosis, systemic illness, and ischemia are key drivers of limb threat. Neuropathy can mask pain, so the bedside appearance and vascular status matter more than symptoms alone."
+  },
+  {
+    "id": 178,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "Why is superficial wound culture usually inadequate?",
+    "back": "Superficial swabs often reflect colonizing organisms rather than the pathogens invading deeper tissue or bone. Deep tissue after debridement, and bone when osteomyelitis is suspected, better guide targeted therapy."
+  },
+  {
+    "id": 179,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "Which bedside finding strongly suggests osteomyelitis?",
+    "back": "An ulcer that probes to bone is a major red flag for osteomyelitis, especially when the wound is chronic, deep, or slow to heal despite appropriate care."
+  },
+  {
+    "id": 180,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What is the diagnostic role of plain radiographs?",
+    "back": "Plain radiographs can show gas, foreign body, deformity, and later bony destruction. They may be normal early in osteomyelitis, so a negative film does not exclude bone infection."
+  },
+  {
+    "id": 181,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "When is MRI most useful in diabetic foot infection?",
+    "back": "MRI is most useful when osteomyelitis or deep abscess remains uncertain after exam and radiographs, and when the result will change management."
+  },
+  {
+    "id": 182,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "Why does ischemia change management so much?",
+    "back": "Poor blood flow limits immune delivery, antibiotic penetration, and wound healing. In ischemic feet, debridement and antibiotics alone often fail without vascular assessment and possible revascularization."
+  },
+  {
+    "id": 183,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What organisms are common in mild diabetic foot infection?",
+    "back": "Mild infection is often due to gram positive cocci, especially Staphylococcus aureus and streptococci. Broader polymicrobial coverage is more likely needed in chronic, deep, or previously treated infection."
+  },
+  {
+    "id": 184,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "When should empiric therapy be broader?",
+    "back": "Broader empiric therapy is reasonable for moderate to severe infection, necrosis, prior antibiotics, recent hospitalization, or health care exposure, while still considering local resistance and renal function."
+  },
+  {
+    "id": 185,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What is the role of debridement?",
+    "back": "Debridement removes necrotic tissue, decreases bioburden, exposes the true extent of disease, and helps drain abscesses. In severe ischemia, the timing should be coordinated with vascular evaluation."
+  },
+  {
+    "id": 186,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "Why is offloading essential?",
+    "back": "Pressure relief is necessary because repetitive trauma perpetuates tissue breakdown and delays healing. Without offloading, even microbiologically adequate treatment may fail."
+  },
+  {
+    "id": 187,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What clinical changes suggest response to treatment?",
+    "back": "Decreasing drainage, less malodor, shrinking erythema, improved wound appearance, and better function are meaningful signs. Laboratory values can help, but the wound and function are usually more informative."
+  },
+  {
+    "id": 188,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What should be monitored during prolonged antibiotics?",
+    "back": "Monitor renal function, cytopenias, hepatic injury when relevant, gastrointestinal effects, neurotoxicity, and drug interactions. Older adults with chronic kidney disease are at higher risk of toxicity."
+  },
+  {
+    "id": 189,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "Why can fever be absent in serious foot infection?",
+    "back": "Older adults, especially those with frailty or cognitive impairment, may have a muted systemic inflammatory response. Serious infection can present instead with delirium, weakness, or reduced mobility."
+  },
+  {
+    "id": 190,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What is the main prevention strategy after healing?",
+    "back": "Consistent foot inspection, pressure offloading, protective footwear, and early treatment of new skin breakdown are the core prevention measures. Family or facility support may be needed when cognition or dexterity is limited."
+  },
+  {
+    "id": 191,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "How should goals of care influence treatment?",
+    "back": "If limb salvage is unlikely or too burdensome, treatment may shift toward comfort-focused wound care, odor control, drainage management, and avoidance of repeated ineffective hospitalizations."
+  },
+  {
+    "id": 192,
+    "chapter": 12,
+    "domain": "diabetic_foot",
+    "front": "What is the key difference between soft tissue infection and osteomyelitis treatment?",
+    "back": "Osteomyelitis usually requires longer therapy and often more aggressive source control than soft tissue infection. Residual infected bone, ongoing pressure, or severe ischemia lower the chance of cure with antibiotics alone."
+  },
+  {
+    "id": 193,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What symptoms in older adults should raise suspicion for serious GI infection despite absent fever?",
+    "back": "Delirium, weakness, falls, poor intake, hypotension, leukocytosis, and acute kidney injury can be the presenting features of serious gastrointestinal infection in older adults. Fever may be absent, so collateral history and functional change are often more informative than temperature alone."
+  },
+  {
+    "id": 194,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "When should stool testing be ordered for C. difficile?",
+    "back": "Test only symptomatic patients with unformed stool and a compatible clinical syndrome. Do not test formed stool or screen asymptomatic patients, because colonization is common and positive results can mislead treatment decisions."
+  },
+  {
+    "id": 195,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What is the role of abdominal CT in suspected diverticulitis?",
+    "back": "CT helps confirm diverticulitis, identify complications such as abscess or perforation, and detect alternative diagnoses. It is especially useful when symptoms are atypical, the patient is frail, or the exam is difficult to interpret."
+  },
+  {
+    "id": 196,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "Why are older adults at higher risk for dehydration during gastroenteritis?",
+    "back": "Older adults have lower physiologic reserve, may have a blunted thirst response, and can decompensate quickly with poor oral intake, vomiting, or diarrhea. Small fluid losses can produce delirium, orthostasis, and prerenal azotemia."
+  },
+  {
+    "id": 197,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What is first-line treatment for nonfulminant C. difficile?",
+    "back": "Targeted therapy with fidaxomicin or oral vancomycin is standard. Oral vancomycin is given as 125 mg four times daily. The choice depends on access, formulary, and local practice."
+  },
+  {
+    "id": 198,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What medication review is useful in C. difficile recurrence prevention?",
+    "back": "Stop unnecessary antibiotics and reassess proton pump inhibitor use. Both contribute to microbiome disruption and increase the risk of recurrent C. difficile, particularly in older adults with repeated healthcare exposure."
+  },
+  {
+    "id": 199,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "Why can biliary infection present atypically in older adults?",
+    "back": "Older adults may present with confusion, malaise, hypotension, or vague abdominal discomfort rather than classic localized pain. Because biliary infection can progress rapidly, clinicians should think of it when systemic illness accompanies upper abdominal symptoms or cholestatic labs."
+  },
+  {
+    "id": 200,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What is the geriatric importance of source control in intraabdominal infection?",
+    "back": "When anatomy drives infection, antibiotics alone may be insufficient. Drain abscesses, relieve biliary obstruction, and involve surgery or interventional radiology early when indicated. Goals of care and functional prognosis should guide escalation in frail patients."
+  },
+  {
+    "id": 201,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What supportive care matters most in infectious diarrhea with kidney injury?",
+    "back": "Replete volume with oral or intravenous fluids based on tolerance, correct electrolytes, and review diuretics and other contributors to dehydration. Monitoring kidney function is essential because older adults can worsen quickly."
+  },
+  {
+    "id": 202,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "Why should antimotility agents be used cautiously in infectious colitis?",
+    "back": "Agents that slow motility can worsen ileus or toxic megacolon and may obscure progression of severe colitis. They are not routine therapy for suspected C. difficile or other severe inflammatory diarrhea."
+  },
+  {
+    "id": 203,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What does a positive C. difficile test mean in an asymptomatic patient?",
+    "back": "It may reflect colonization rather than active infection. Diagnosis requires both compatible symptoms and an appropriate test result, especially in healthcare exposed older adults."
+  },
+  {
+    "id": 204,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What discharge information is essential after GI infection in a cognitively impaired patient?",
+    "back": "Document the diagnosis, treatment course, hydration plan, medication changes, and clear return precautions. Provide instructions to caregivers or facility staff because the patient may not reliably self-monitor recurrence or worsening illness."
+  },
+  {
+    "id": 205,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "How does frailty change management of GI infection?",
+    "back": "Frailty lowers the threshold for admission, imaging, intravenous fluids, and close monitoring. It also makes function, mobility, delirium risk, and the burden of treatment as important as microbiologic cure."
+  },
+  {
+    "id": 206,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What is the major safety concern with broad-spectrum antibiotics in older adults?",
+    "back": "Broad-spectrum therapy can precipitate or worsen C. difficile, cause drug interactions, and promote resistant organisms. In older adults with limited reserve, these harms may outweigh benefit unless a clear bacterial source requires treatment."
+  },
+  {
+    "id": 207,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "When should you think beyond gastroenteritis in an older adult with abdominal symptoms?",
+    "back": "Think beyond simple gastroenteritis when there is focal pain, leukocytosis, cholestatic laboratory abnormalities, hypotension, peritoneal signs, or persistent vomiting. Diverticulitis and biliary infection often require imaging and source control."
+  },
+  {
+    "id": 208,
+    "chapter": 13,
+    "domain": "gastrointestinal",
+    "front": "What clinical change may be more useful than stool count alone in older adults?",
+    "back": "Changes in mental status, oral intake, gait, and hemodynamics can be more informative than stool frequency alone. Older adults may decline functionally before classic gastrointestinal signs become prominent."
+  },
+  {
+    "id": 209,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "How do older adults with hepatitis commonly present?",
+    "back": "Often with nonspecific findings such as fatigue, anorexia, confusion, weakness, dark urine, or falls rather than classic abdominal symptoms. Delirium or functional decline may be the first clue to acute liver injury or decompensated cirrhosis."
+  },
+  {
+    "id": 210,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What is the key difference between hepatitis C antibody and hepatitis C RNA?",
+    "back": "Antibody shows exposure at some point in life. RNA shows current active infection. A positive antibody alone does not prove ongoing viremia, and RNA is needed to confirm current infection."
+  },
+  {
+    "id": 211,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "Why is chronic hepatitis B particularly important before immunosuppression?",
+    "back": "Immunosuppression can trigger viral reactivation, causing abrupt hepatitis, jaundice, and even liver failure. Patients receiving steroids, chemotherapy, or other immune-modulating therapy need screening and prophylaxis planning."
+  },
+  {
+    "id": 212,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What medication issues matter most in hepatitis C treatment?",
+    "back": "Drug interactions with acid suppressants, anticonvulsants, rifamycins, antiarrhythmics, and some statins can alter direct acting antiviral levels or safety. A complete medication reconciliation, including supplements, is essential."
+  },
+  {
+    "id": 213,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "How does cirrhosis change infection risk?",
+    "back": "Cirrhosis increases susceptibility to bacterial infection and makes infection more likely to precipitate encephalopathy, renal dysfunction, and acute decompensation. Fever may be absent, so clinicians must maintain a low threshold for evaluation."
+  },
+  {
+    "id": 214,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What bedside findings suggest hepatic encephalopathy?",
+    "back": "Confusion, slowed thinking, sleep-wake reversal, asterixis, and functional decline are common. The diagnosis is clinical and should prompt a search for precipitants such as infection, dehydration, constipation, bleeding, or sedating medications."
+  },
+  {
+    "id": 215,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What baseline labs help assess acute liver injury?",
+    "back": "Aminotransferases, bilirubin, alkaline phosphatase, albumin, international normalized ratio, creatinine, and complete blood count help define injury pattern, synthetic function, and renal involvement."
+  },
+  {
+    "id": 216,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "Why is creatinine especially important in older adults with hepatitis?",
+    "back": "Renal function affects prognosis, medication choice, and dosing. Creatinine rise may signal hepatorenal syndrome, dehydration, sepsis, or drug toxicity and can meaningfully worsen outcomes in cirrhosis."
+  },
+  {
+    "id": 217,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "When should hepatitis patients be hospitalized?",
+    "back": "Hospitalization is appropriate for encephalopathy, significant coagulopathy, rising bilirubin, acute kidney injury, inability to take oral intake, severe frailty, or concern for acute liver failure."
+  },
+  {
+    "id": 218,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What is the role of hepatitis A treatment?",
+    "back": "Acute hepatitis A is usually managed with supportive care rather than antiviral therapy. Prevention through vaccination and postexposure measures is central."
+  },
+  {
+    "id": 219,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What does hepatitis B surface antigen indicate?",
+    "back": "It indicates current hepatitis B infection, either acute or chronic, depending on context and other serologies. It does not distinguish recent infection from long-standing disease by itself."
+  },
+  {
+    "id": 220,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "Why do older adults need careful vaccine record review?",
+    "back": "Immunity records are often incomplete, and self-report may be unreliable. Reviewing prior doses and serologies helps decide whether hepatitis A or B vaccination is needed."
+  },
+  {
+    "id": 221,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What should be reviewed before prescribing antiviral therapy in a frail older adult?",
+    "back": "Renal function, polypharmacy, drug interactions, adherence capacity, swallowing ability, and goals of care. Treatment success depends on matching therapy to physiology and medication burden."
+  },
+  {
+    "id": 222,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "Why can liver synthetic markers be misleading in older adults?",
+    "back": "Albumin may be low from malnutrition or inflammation, and anticoagulants can affect coagulation tests. These values must be interpreted in clinical context rather than assumed to represent liver failure alone."
+  },
+  {
+    "id": 223,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What counseling matters for patients with chronic liver disease?",
+    "back": "Avoid alcohol, minimize unnecessary hepatotoxins, use medications carefully, and seek urgent care for worsening jaundice, confusion, bleeding, or abdominal distention. Transition plans should include follow-up and monitoring."
+  },
+  {
+    "id": 224,
+    "chapter": 14,
+    "domain": "hepatitis",
+    "front": "What is the main long-term issue after hepatitis C cure if cirrhosis existed?",
+    "back": "Cirrhosis-related surveillance must continue because liver cancer and other complications can still occur despite virologic cure. Cure reduces risk but does not erase established structural liver disease."
+  },
+  {
+    "id": 225,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What bacteremia pattern most raises concern for an endovascular source?",
+    "back": "Persistent positive blood cultures, recurrent bacteremia after treatment, or bacteremia without a clear source should trigger evaluation for endocarditis, infected thrombus, catheter infection, or vascular graft infection. In older adults, the clinical picture may be subtle and dominated by delirium or functional decline."
+  },
+  {
+    "id": 226,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "Why is Staphylococcus aureus bacteremia treated aggressively?",
+    "back": "S aureus in blood is usually clinically significant and is strongly associated with endocarditis and metastatic infection. Even if the patient looks improved, clinicians should search for a deep focus, repeat cultures until clearance, and assess whether source control is needed."
+  },
+  {
+    "id": 227,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "When is transesophageal echocardiography preferred over transthoracic echocardiography?",
+    "back": "Use transesophageal echocardiography when suspicion for endocarditis is high, when transthoracic images are nondiagnostic, or when prosthetic valves or intracardiac devices are present. It is more sensitive for vegetations, abscess, and prosthetic valve involvement."
+  },
+  {
+    "id": 228,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What geriatric features may be the main presentation of endovascular infection?",
+    "back": "Delirium, weakness, poor intake, falls, and loss of mobility may replace fever or a new murmur as the presenting features in older adults. Functional decline after bacteremia should prompt a search for endocarditis or another deep source."
+  },
+  {
+    "id": 229,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "Why do vascular graft and catheter infections often require source control?",
+    "back": "Foreign material supports biofilm and protects organisms from host clearance and antibiotics. Removing an infected catheter or addressing infected graft material is often necessary to clear bacteremia and prevent relapse."
+  },
+  {
+    "id": 230,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What is the significance of persistent bacteremia after antibiotics begin?",
+    "back": "Persistent bacteremia suggests an uncontrolled nidus, resistant organism, inadequate regimen, or metastatic focus. It should prompt repeat cultures, reassessment of the source, and further imaging rather than simple extension of the same plan."
+  },
+  {
+    "id": 231,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "How should clinicians interpret a single possible contaminant blood culture?",
+    "back": "Interpretation depends on the organism, number of positive sets, timing, and the clinical syndrome. A single isolate may be contamination, but repeated recovery of the same organism or a compatible syndrome should shift concern toward true bacteremia."
+  },
+  {
+    "id": 232,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What complications should be sought in bacteremia with back pain?",
+    "back": "Search for vertebral osteomyelitis, discitis, or epidural infection, especially with persistent bacteremia. Focal pain in the spine or joints can signal metastatic infection from an endovascular source."
+  },
+  {
+    "id": 233,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What does source control mean in this chapter?",
+    "back": "Source control means removing infected intravascular hardware when possible, draining infected collections, or correcting the anatomic nidus that sustains bacteremia. Antibiotics alone are often insufficient if infected material remains in place."
+  },
+  {
+    "id": 234,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "Why is kidney function central to management in older adults with endovascular infection?",
+    "back": "Renal impairment increases toxicity risk for many prolonged antimicrobial regimens and may limit drug choice or require dose adjustment. Kidney injury can also be a complication of sepsis, embolic disease, or nephrotoxic therapy."
+  },
+  {
+    "id": 235,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What role does medication reconciliation play during treatment?",
+    "back": "Prolonged therapy can interact with anticoagulants, antiarrhythmics, and other chronic drugs. Reconciling medications helps avoid toxicity, destabilized anticoagulation, and duplicate therapy during transitions between hospital, skilled nursing, and home."
+  },
+  {
+    "id": 236,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "When might suppressive antimicrobial therapy be used?",
+    "back": "Suppressive therapy may be considered when cure is unlikely because infected graft or other foreign material cannot be removed and surgery is not feasible. It is a compromise strategy, not a replacement for definitive source control."
+  },
+  {
+    "id": 237,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "Why are blood cultures repeated during treatment?",
+    "back": "Repeat cultures document clearance, help define the start of treatment duration, and reveal ongoing bacteremia that suggests inadequate source control. They are especially useful in S aureus bacteremia and suspected endocarditis."
+  },
+  {
+    "id": 238,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What symptoms after discharge should trigger urgent reassessment?",
+    "back": "Recurrent fever, worsening confusion, dyspnea, new focal neurologic deficits, limb ischemia, or recurrent weakness should prompt urgent evaluation for relapse, embolic complications, or heart failure."
+  },
+  {
+    "id": 239,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "How does frailty affect decisions about surgery for endocarditis or graft infection?",
+    "back": "Frailty, cognitive impairment, and low functional reserve increase operative risk and may reduce the likelihood of meaningful recovery. Decisions should weigh prognosis, symptom burden, and the patient’s goals rather than relying on disease severity alone."
+  },
+  {
+    "id": 240,
+    "chapter": 15,
+    "domain": "bloodstream",
+    "front": "What is the key principle of treating endovascular bloodstream infection?",
+    "back": "Combine organism-directed antimicrobial therapy with source control and close monitoring. When an intravascular nidus persists, antibiotics alone may suppress but often do not cure the infection."
+  },
+  {
+    "id": 241,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What older-adult features often replace classic meningitis signs?",
+    "back": "Older adults may present with confusion, falls, anorexia, medication refusal, new dependence, or subtle neurologic change rather than the full classic triad. Fever and neck stiffness can be absent or delayed, so clinicians should maintain a low threshold for blood cultures, neuroimaging, and lumbar puncture when the story suggests CNS infection."
+  },
+  {
+    "id": 242,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What empiric meningitis coverage is standard in older adults?",
+    "back": "Standard empiric therapy usually includes vancomycin plus a third generation cephalosporin, with ampicillin added when Listeria coverage is needed because of age or risk factors. Exact choices should reflect local resistance patterns and allergies, but Listeria coverage is a key geriatric issue."
+  },
+  {
+    "id": 243,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "Why is Listeria coverage emphasized in older adults?",
+    "back": "Listeria monocytogenes causes meningitis in older adults more often than in younger adults and is not reliably covered by cephalosporins. Ampicillin is the standard add on when age or risk factors increase suspicion."
+  },
+  {
+    "id": 244,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "When should brain imaging come before lumbar puncture?",
+    "back": "Image first when there is focal deficit, seizure, papilledema, markedly depressed consciousness, known intracranial lesion, or significant immunocompromise. These findings raise concern for mass effect or elevated intracranial pressure, where lumbar puncture may be unsafe."
+  },
+  {
+    "id": 245,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What cerebrospinal fluid pattern suggests bacterial meningitis?",
+    "back": "Typical findings are neutrophilic pleocytosis, elevated protein, and low glucose, though partially treated or early disease may look less classic. Blood cultures and Gram stain remain important, and treatment should not wait for confirmatory culture results in a sick patient."
+  },
+  {
+    "id": 246,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What syndrome should make you suspect encephalitis?",
+    "back": "Altered behavior, aphasia, seizures, focal deficits, or impaired consciousness out of proportion to meningeal signs suggests encephalitis. Herpes simplex encephalitis is a neurologic emergency, so empiric acyclovir is appropriate while diagnostic testing is pending."
+  },
+  {
+    "id": 247,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What is the best imaging test for brain abscess?",
+    "back": "Magnetic resonance imaging is preferred. Brain abscess often appears as a ring-enhancing lesion with surrounding edema, but the diagnosis also depends on clinical context such as sinus, ear, dental, or hematogenous source."
+  },
+  {
+    "id": 248,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "When does brain abscess need source control?",
+    "back": "Abscesses often need aspiration or surgical drainage when they are large, superficial, multiloculated, causing mass effect, or when microbiologic diagnosis is needed. Antibiotics alone may fail if pressure or diagnostic uncertainty remains significant."
+  },
+  {
+    "id": 249,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What is the hallmark presentation of spinal epidural abscess?",
+    "back": "Severe back pain with fever and progressive neurologic deficit should trigger urgent suspicion. Weakness, sensory loss, or urinary retention can appear as compression worsens. Contrast-enhanced spine MRI is the diagnostic study of choice."
+  },
+  {
+    "id": 250,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "Why is spinal epidural abscess often missed in older adults?",
+    "back": "Back pain may be attributed to degenerative disease, and baseline mobility limitations can mask subtle weakness. Delays are dangerous because neurologic injury can become irreversible once cord or cauda equina compression occurs."
+  },
+  {
+    "id": 251,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "Which organism is commonly implicated in spinal epidural abscess?",
+    "back": "Staphylococcus aureus is a common cause, though hematogenous spread from skin, soft tissue, bacteremia, urinary infection, or endocarditis is also frequent. Empiric therapy should reflect local methicillin resistance patterns and patient risk."
+  },
+  {
+    "id": 252,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What supportive care matters during CNS infection treatment?",
+    "back": "Airway protection, oxygenation, seizure management, fever control, hydration, and electrolyte correction all affect neurologic outcome. Older adults are especially vulnerable to aspiration, pressure injury, venous thromboembolism, and medication oversedation."
+  },
+  {
+    "id": 253,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "Why is kidney function central to CNS infection therapy?",
+    "back": "Many standard agents, including acyclovir, vancomycin, and several beta lactams, need renal dose adjustment. Acyclovir can worsen kidney injury if hydration is poor, and beta lactams may cause neurotoxicity when levels accumulate."
+  },
+  {
+    "id": 254,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What should you monitor during prolonged therapy?",
+    "back": "Monitor renal function, drug toxicity, neurologic status, and response on repeat imaging when indicated. Hearing loss, cytopenias, infusion complications, and recurrent fever or focal deficits should prompt reassessment."
+  },
+  {
+    "id": 255,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "How do goals of care influence treatment decisions?",
+    "back": "CNS infection can be reversible, but frailty, baseline cognition, kidney disease, and functional status affect the chance of meaningful recovery. Early discussion helps match the intensity of antibiotics, procedures, and rehabilitation to the patient’s values."
+  },
+  {
+    "id": 256,
+    "chapter": 16,
+    "domain": "cns",
+    "front": "What prevention measures matter after recovery?",
+    "back": "Vaccination against pneumococcus and influenza, prompt treatment of bacteremia or contiguous infections, oral hygiene, swallowing assessment, and careful discharge planning help reduce recurrence and readmission. Transitions should clearly state organism, duration, renal monitoring, and follow up needs."
+  },
+  {
+    "id": 257,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What clinical pattern should raise suspicion for tuberculosis in an older adult?",
+    "back": "Unexplained weight loss, anorexia, cough, delirium, or functional decline, especially with exposure risk or upper-lobe imaging changes. Older adults often lack classic fever or night sweats, so decline itself may be the presenting clue."
+  },
+  {
+    "id": 258,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "How does latent tuberculosis differ from active disease?",
+    "back": "Latent infection means viable organisms are contained without clinical illness or transmission. Active disease means symptomatic infection with microbiologic replication and possible contagiousness. Screening tests can suggest infection, but they do not distinguish latent from active disease."
+  },
+  {
+    "id": 259,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "Why can tuberculosis be missed in frail older adults?",
+    "back": "Symptoms are often muted or atypical, communication may be limited by hearing loss or cognitive impairment, and chronic lung or systemic disease can mask the presentation. Clinicians should avoid attributing decline to aging alone."
+  },
+  {
+    "id": 260,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What is the first infection-control step for suspected pulmonary tuberculosis?",
+    "back": "Place the patient in airborne isolation, ideally in a negative-pressure room if available, and limit transport. Source control protects staff, other patients, and facility residents while diagnostic testing is underway."
+  },
+  {
+    "id": 261,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "Which specimens are typically obtained for suspected pulmonary tuberculosis?",
+    "back": "Sputum for acid-fast smear, nucleic acid amplification testing when available, and mycobacterial culture. If sputum cannot be produced, induced sputum or bronchoscopy may be needed depending on the situation."
+  },
+  {
+    "id": 262,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "Why is a negative interferon gamma release assay not enough to rule out active tuberculosis?",
+    "back": "The test detects immune sensitization, not active disease, and false negatives can occur with severe illness or immunosuppression. Clinical context, imaging, and microbiology remain necessary when suspicion is high."
+  },
+  {
+    "id": 263,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What is the standard initial regimen for drug-susceptible active tuberculosis?",
+    "back": "Initial therapy uses multiple drugs, typically isoniazid, rifampin, pyrazinamide, and ethambutol, then the regimen is narrowed after susceptibility results return. Exact choices depend on disease site and resistance data."
+  },
+  {
+    "id": 264,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "Which tuberculosis drug interaction is especially important in older adults?",
+    "back": "Rifampin lowers the effect of many drugs, including warfarin, some antiarrhythmics, anticonvulsants, opioids, and some diabetes medicines. Medication reconciliation and pharmacy review are essential before and after starting therapy."
+  },
+  {
+    "id": 265,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What vision-related adverse effect is linked to ethambutol?",
+    "back": "Ethambutol can cause optic neuritis, with blurred vision or impaired color discrimination. New visual symptoms during therapy require prompt reassessment because baseline eye disease may obscure early toxicity."
+  },
+  {
+    "id": 266,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What toxicities should be reviewed when starting isoniazid?",
+    "back": "Hepatotoxicity and peripheral neuropathy are key concerns. Pyridoxine is commonly used to reduce neuropathy risk, especially in older adults and those with diabetes, malnutrition, alcohol use disorder, kidney disease, or baseline neuropathy."
+  },
+  {
+    "id": 267,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "When is latent tuberculosis treatment most appropriate in older adults?",
+    "back": "When active disease has been excluded and the expected benefit outweighs toxicity, interaction burden, and adherence challenges. The decision should account for life expectancy, immunosuppression risk, and the feasibility of follow-up."
+  },
+  {
+    "id": 268,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "Why can rifamycin-based latent infection regimens be difficult in older adults?",
+    "back": "They are often shorter, but rifamycins interact with many chronic medications and can complicate anticoagulation, cardiac therapy, and diabetes management. The regimen must fit the patient’s medication list and care setting."
+  },
+  {
+    "id": 269,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What noninfectious problems worsen during tuberculosis hospitalization in older adults?",
+    "back": "Delirium, immobility, dehydration, constipation, pressure injury, and deconditioning can all worsen. Supportive care should accompany antimicrobial therapy because these geriatric syndromes can be as clinically important as the infection itself."
+  },
+  {
+    "id": 270,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What should discharge planning include for an older adult being treated for tuberculosis?",
+    "back": "A clear plan for medication administration, laboratory and clinical monitoring, sputum follow-up if needed, communication with public health, and responsibility for isolation or facility precautions. Transitions often determine whether treatment succeeds."
+  },
+  {
+    "id": 271,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "Why is medication review mandatory before tuberculosis therapy?",
+    "back": "Older adults frequently take anticoagulants, cardiovascular drugs, diabetes medications, anticonvulsants, and opioids that can interact with rifamycins or be affected by illness. Treatment plans often need coordinated adjustment across prescribers."
+  },
+  {
+    "id": 272,
+    "chapter": 17,
+    "domain": "tuberculosis",
+    "front": "What is the main prevention strategy after a tuberculosis exposure in a care facility?",
+    "back": "Prompt identification of exposed residents and staff, symptom screening, diagnostic testing as indicated, and infection-control measures to stop transmission. Latent infection treatment may follow once active disease is excluded and the benefit justifies therapy."
+  },
+  {
+    "id": 273,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "When should an older adult with thrush be evaluated for esophageal candidiasis?",
+    "back": "Evaluate for esophageal candidiasis when oral thrush is accompanied by odynophagia, dysphagia, weight loss, or poor intake, especially after antibiotics, inhaled steroids, diabetes, or frailty. Esophageal symptoms change management because topical oral agents are usually inadequate."
+  },
+  {
+    "id": 274,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "Why is candidemia management different from simple mucosal candidiasis?",
+    "back": "Candidemia implies bloodstream or deep tissue invasion, not superficial colonization. Management requires blood culture follow up, search for a source, removal or exchange of implicated lines when feasible, and systemic antifungal therapy, often with an echinocandin first."
+  },
+  {
+    "id": 275,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What clinical setting should raise suspicion for invasive aspergillosis in older adults?",
+    "back": "Think of invasive aspergillosis in older adults with structural lung disease, prolonged corticosteroid exposure, neutropenia, or severe viral pneumonia who develop pleuritic pain, hemoptysis, or progressive infiltrates. Chest CT and respiratory sampling help support the diagnosis."
+  },
+  {
+    "id": 276,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "How does cryptococcal meningitis often present in older adults?",
+    "back": "It may present subacutely with headache, confusion, gait change, or apparent delirium rather than dramatic meningismus. A positive serum cryptococcal antigen plus neurologic symptoms should prompt lumbar puncture unless contraindicated."
+  },
+  {
+    "id": 277,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What is the defining pathophysiology of mucormycosis?",
+    "back": "Mucormycosis is an angioinvasive mold infection. The fungi invade blood vessels, causing thrombosis, tissue infarction, and necrosis. This is why urgent surgical debridement plus antifungal therapy is needed when feasible."
+  },
+  {
+    "id": 278,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "Which older adults are at higher risk for mucormycosis?",
+    "back": "Risk increases with diabetes, especially ketoacidosis, glucocorticoid exposure, iron dysregulation, hematologic malignancy, trauma, and profound debility. Sinus pain, black eschar, orbital symptoms, or rapidly progressive pulmonary disease are warning signs."
+  },
+  {
+    "id": 279,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "Why can endemic mycoses be missed in older adults?",
+    "back": "Endemic mycoses may look like bacterial pneumonia, lung cancer, or nonspecific constitutional decline. Exposure history is often incomplete, and symptoms can be subacute. Geographic and environmental clues are crucial for diagnosis."
+  },
+  {
+    "id": 280,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What does a positive fungal culture from sputum usually mean in candidiasis?",
+    "back": "Candida in sputum usually reflects colonization rather than invasive pneumonia. Diagnosis should not rely on that result alone. Clinical syndrome, imaging, and evidence of tissue invasion are needed before labeling invasive disease."
+  },
+  {
+    "id": 281,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "When is fluconazole appropriate in fungal infection?",
+    "back": "Fluconazole is useful for susceptible Candida infections and for cryptococcal consolidation or maintenance therapy. It is not appropriate as sole initial therapy for severe cryptococcal meningitis, invasive aspergillosis, or mucormycosis."
+  },
+  {
+    "id": 282,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "Why is amphotericin B used cautiously in older adults?",
+    "back": "Amphotericin B can cause kidney injury, electrolyte wasting, anemia, and infusion reactions. These effects are especially relevant in frail older adults with baseline CKD, limited reserve, or polypharmacy."
+  },
+  {
+    "id": 283,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What makes flucytosine difficult to use in older adults?",
+    "back": "Flucytosine can accumulate when renal function is reduced and can cause bone marrow suppression. Older adults often need close monitoring of creatinine, blood counts, and drug tolerance during induction therapy for cryptococcosis."
+  },
+  {
+    "id": 284,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "Why are azole drug interactions especially relevant in geriatrics?",
+    "back": "Azoles interact with warfarin, statins, antiarrhythmics, sedatives, and many psychotropics. In older adults, these interactions can trigger bleeding, arrhythmia, or excess sedation, so the entire medication list must be reviewed."
+  },
+  {
+    "id": 285,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What is the role of source control in fungal infection?",
+    "back": "Source control can mean removing an infected catheter, draining an abscess, debriding necrotic tissue, or addressing a sinus or pulmonary focus. Antifungals alone may fail if infected hardware or dead tissue remains in place."
+  },
+  {
+    "id": 286,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "How should clinicians think about invasive fungal diagnostics in frail older adults?",
+    "back": "Choose tests that are likely to change management and align with goals of care. Invasive biopsy, bronchoscopy, or lumbar puncture may be appropriate when they will clarify a treatable syndrome, but the burden of testing must be weighed against function and prognosis."
+  },
+  {
+    "id": 287,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What monitoring is routine during systemic antifungal therapy?",
+    "back": "Monitor renal function, liver chemistries, electrolytes, and blood counts according to the drug and syndrome. Also watch for clinical response, drug interactions, delirium, swallowing ability, and adherence after transitions of care."
+  },
+  {
+    "id": 288,
+    "chapter": 18,
+    "domain": "fungal",
+    "front": "What prevention steps matter most for recurrent thrush?",
+    "back": "Reduce avoidable risk by reviewing antibiotics and steroid exposure, controlling diabetes, and encouraging oral and denture hygiene. Inhaled steroid users should rinse the mouth after each dose."
+  },
+  {
+    "id": 289,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "Why are herpesvirus reactivations common in older adults?",
+    "back": "Herpesviruses remain latent for life, and aging reduces cell-mediated immune control. Reactivation is promoted by physiologic stress, acute illness, and immunosuppressive therapy. In older adults, presentations are often atypical and may manifest as pain, delirium, poor intake, or functional decline."
+  },
+  {
+    "id": 290,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What clinical clue most strongly suggests herpes zoster?",
+    "back": "Unilateral dermatomal pain with clustered vesicles is classic for zoster. Pain often precedes the rash. In older adults, prodromal neuralgia may be misdiagnosed as musculoskeletal pain, abdominal pain, or neuropathy."
+  },
+  {
+    "id": 291,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "When should ophthalmic zoster be suspected?",
+    "back": "Any zoster rash or pain involving the forehead, upper eyelid, or nose raises concern for ophthalmic involvement. Eye redness, photophobia, vision change, or corneal findings require urgent ophthalmology assessment because ocular complications can threaten vision."
+  },
+  {
+    "id": 292,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What test is preferred to confirm herpes simplex or varicella zoster from a lesion?",
+    "back": "Polymerase chain reaction from a lesion swab is the preferred confirmatory test when lesions are available. Serology usually reflects prior exposure and is less useful for acute reactivation disease."
+  },
+  {
+    "id": 293,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "Why can herpesvirus disease be missed in frail older adults?",
+    "back": "The presentation may be nonspecific, with delirium, anorexia, weakness, dehydration, or transaminitis instead of obvious vesicles or mononucleosis-like symptoms. Examining the skin, mouth, and eyes is often essential."
+  },
+  {
+    "id": 294,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What are the main antiviral options for localized shingles?",
+    "back": "Oral acyclovir, valacyclovir, or famciclovir are used for localized zoster. Choice depends on renal function, cost, pill burden, and access. Renal dose adjustment is needed in older adults with reduced kidney function."
+  },
+  {
+    "id": 295,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "When is intravenous acyclovir indicated?",
+    "back": "Use intravenous acyclovir for severe, disseminated, ophthalmic with concerning findings, or central nervous system herpes zoster, and for severe herpes simplex disease when oral therapy is not adequate. Hospitalization is often needed for monitoring and supportive care."
+  },
+  {
+    "id": 296,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What is the key management issue in postherpetic neuralgia?",
+    "back": "Pain control must balance benefit with geriatric adverse effects. Gabapentin or pregabalin may help but can worsen sedation and falls. Tricyclic antidepressants can cause anticholinergic effects, orthostasis, and conduction problems."
+  },
+  {
+    "id": 297,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What medication toxicity is especially important with acyclovir or valacyclovir?",
+    "back": "Neurotoxicity is a major concern when renal function is reduced and dosing is not adjusted. Confusion, tremor, hallucinations, and somnolence can resemble delirium from infection or baseline cognitive impairment."
+  },
+  {
+    "id": 298,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "How does cytomegalovirus usually matter in older adults?",
+    "back": "CMV becomes clinically relevant mainly when immunity is impaired. It can cause colitis, esophagitis, pneumonitis, retinitis, marrow suppression, or a systemic inflammatory syndrome. Treatment decisions depend on severity, renal function, and marrow reserve."
+  },
+  {
+    "id": 299,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What syndromes should raise concern for Epstein-Barr virus reactivation or atypical disease?",
+    "back": "Persistent fatigue, fever, lymphadenopathy, transaminitis, or cytopenias may suggest EBV-related illness, especially in immunosuppressed patients. In older adults, the presentation is often nonspecific, so clinical context is critical."
+  },
+  {
+    "id": 300,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "Why is hydration part of herpesvirus management?",
+    "back": "Hydration helps support kidney function during antiviral therapy, especially with acyclovir-class drugs. It also addresses dehydration from pain, poor intake, and acute illness, which can worsen delirium and functional decline."
+  },
+  {
+    "id": 301,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What should be monitored after starting antiviral therapy in a frail older adult?",
+    "back": "Monitor cognition, hydration, rash progression, pain, renal function, and adverse drug effects. Lack of improvement should prompt reassessment for disseminated disease, ocular or neurologic involvement, bacterial superinfection, or an alternative diagnosis."
+  },
+  {
+    "id": 302,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What is the best preventive strategy against shingles in eligible older adults?",
+    "back": "Recombinant zoster vaccination is the primary preventive strategy. It reduces the risk of zoster and postherpetic neuralgia. Prevention planning should also include follow-up, medication review, and education about early evaluation for new dermatomal pain or rash."
+  },
+  {
+    "id": 303,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "Why are discharge instructions important after zoster treatment?",
+    "back": "Older adults may need clear instructions on lesion care, pain follow-up, eye symptoms, and when to seek urgent care for new neurologic or visual findings. Care transitions often fail when renal dose changes, adherence, and caregiver support are not addressed."
+  },
+  {
+    "id": 304,
+    "chapter": 19,
+    "domain": "herpesvirus",
+    "front": "What is a key infection-control issue for disseminated zoster?",
+    "back": "Localized zoster can often be managed with lesion containment and standard precautions, but disseminated disease requires stricter precautions depending on setting. Facility policies vary, so communication at transfer and admission is essential."
+  },
+  {
+    "id": 305,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "Why can HIV diagnosis be delayed in older adults?",
+    "back": "Clinicians may underestimate sexual risk, and symptoms such as fatigue, weight loss, neuropathy, or infections may be misattributed to aging or chronic disease. Older adults also may be less likely to disclose sexual exposures unless asked directly and without judgment."
+  },
+  {
+    "id": 306,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What is the preferred initial HIV screening test in most settings?",
+    "back": "A fourth-generation HIV-1 and HIV-2 antigen-antibody assay. It detects infection earlier than antibody-only tests and is the usual first-line screen, followed by confirmatory testing if reactive."
+  },
+  {
+    "id": 307,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What clinical history is essential when evaluating STI risk in later life?",
+    "back": "Ask about current and recent partners, condom use, new partners, receptive anal exposure, oral sex, transactional sex, prior STI, and prior HIV testing or treatment. Use anatomically specific questions rather than assuming low risk based on age."
+  },
+  {
+    "id": 308,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What findings should raise concern for syphilis in an older adult?",
+    "back": "A generalized rash, including palms and soles, mucosal lesions, lymphadenopathy, gait change, neuropathy, cognitive decline, ocular symptoms, or stroke-like manifestations. Syphilis can mimic many neurologic and dermatologic disorders."
+  },
+  {
+    "id": 309,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "When should cerebrospinal fluid evaluation be considered in syphilis?",
+    "back": "When neurologic, ocular, or otic symptoms are present, or when exam findings suggest central nervous system involvement. Routine lumbar puncture is not needed for every positive serology result."
+  },
+  {
+    "id": 310,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "Why is a negative urine NAAT not enough to exclude gonorrhea or chlamydia?",
+    "back": "Urine testing can miss rectal and pharyngeal infection. Site-specific testing should match the exposure history, especially in people with receptive anal or oral sex."
+  },
+  {
+    "id": 311,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What is standard treatment for uncomplicated gonorrhea in adults under 150 kg?",
+    "back": "Ceftriaxone 500 mg intramuscularly in a single dose. If chlamydia has not been excluded, add doxycycline 100 mg orally twice daily for 7 days."
+  },
+  {
+    "id": 312,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What ceftriaxone dose is used for uncomplicated gonorrhea in adults weighing 150 kg or more?",
+    "back": "Ceftriaxone 1 g intramuscularly in a single dose."
+  },
+  {
+    "id": 313,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What is standard treatment for uncomplicated chlamydia?",
+    "back": "Doxycycline 100 mg orally twice daily for 7 days, assuming no contraindication. Site-specific testing and partner treatment remain necessary to reduce reinfection."
+  },
+  {
+    "id": 314,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "How is early syphilis treated in a nonpregnant adult?",
+    "back": "Benzathine penicillin G intramuscularly is standard therapy for early syphilis. Treatment selection changes with stage and with complications such as neurologic or ocular disease."
+  },
+  {
+    "id": 315,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "How is neurosyphilis treated?",
+    "back": "With intravenous penicillin therapy, not with standard single-dose benzathine penicillin. Ocular syphilis is treated as neurosyphilis because of the risk of permanent vision loss."
+  },
+  {
+    "id": 316,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What medication issues commonly matter in older adults with HIV?",
+    "back": "Polypharmacy and drug interactions are central concerns. Antiretrovirals may interact with statins, anticoagulants, antiarrhythmics, anticonvulsants, sedatives, and acid suppressants. Renal and hepatic function also influence regimen choice."
+  },
+  {
+    "id": 317,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "Why does kidney function matter in HIV care for older adults?",
+    "back": "Chronic kidney disease can limit antiretroviral choices and increase toxicity risk. Renal function also affects dosing of some antimicrobial agents and influences monitoring during treatment."
+  },
+  {
+    "id": 318,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What supportive care may be needed during STI or HIV treatment in a frail older adult?",
+    "back": "Pain control, hydration, skin care, help with medication organization, transportation, interpreter services, and caregiver support. Cognitive impairment may require simplified regimens and close follow-up."
+  },
+  {
+    "id": 319,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "What is the key prevention strategy after diagnosing an STI in an older adult?",
+    "back": "Treat the patient, treat or notify partners as appropriate, and arrange follow-up testing. Prevention also includes counseling about condoms, ongoing STI screening when risk persists, and HIV prevention options when indicated."
+  },
+  {
+    "id": 320,
+    "chapter": 20,
+    "domain": "hiv_sti",
+    "front": "Why should stigma be addressed directly in older adult STI care?",
+    "back": "Stigma reduces disclosure, testing, adherence, and partner notification. A nonjudgmental approach improves diagnostic accuracy and helps older adults engage in prevention and treatment without shame or avoidance."
+  },
+  {
+    "id": 321,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "Why are vaccine responses often weaker in older adults?",
+    "back": "Immune aging reduces naive T cell diversity, B cell function, and germinal center activity. Frailty, malnutrition, chronic kidney disease, diabetes, and immunosuppressive therapy can further blunt response. Protection may be less durable, but vaccines still reduce severe disease and complications."
+  },
+  {
+    "id": 322,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "What is the main goal of influenza vaccination in late life?",
+    "back": "To reduce severe outcomes such as hospitalization, pneumonia, exacerbation of chronic disease, and death. Because circulating strains change, influenza vaccination remains annual, and late vaccination can still help while viruses circulate."
+  },
+  {
+    "id": 323,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "How should COVID 19 vaccination be approached in older adults?",
+    "back": "Use current product-specific guidance rather than outdated schedules. Older adults remain at high risk for severe disease, and prior infection does not reliably substitute for vaccination. Product selection and timing may change as recommendations are updated."
+  },
+  {
+    "id": 324,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "Which vaccines are commonly non live and used in older adults?",
+    "back": "Influenza, COVID 19, pneumococcal conjugate, recombinant zoster, and many hepatitis B vaccines are non live. This matters because non live vaccines are generally usable in stable chronic disease and are usually safer in immunocompromised older adults than live products."
+  },
+  {
+    "id": 325,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "What is the practical value of pneumococcal vaccination in older adults?",
+    "back": "Pneumococcal vaccination lowers risk of invasive disease and serious pneumonia. Current conjugate vaccine strategies are preferred because they generate a stronger T cell dependent response than older polysaccharide only approaches."
+  },
+  {
+    "id": 326,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "Why is recombinant zoster vaccine important in later life?",
+    "back": "Herpes zoster risk and postherpetic neuralgia increase with age. Recombinant zoster vaccine helps prevent reactivation disease and its functional consequences. Prior shingles history does not remove the indication."
+  },
+  {
+    "id": 327,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "Who should be considered for RSV vaccination?",
+    "back": "Older adults at increased risk of severe RSV disease, especially those with cardiopulmonary disease, frailty, or congregate living exposure, depending on current recommendations and shared decision making."
+  },
+  {
+    "id": 328,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "Does anticoagulation usually prevent intramuscular vaccination?",
+    "back": "No. Routine intramuscular vaccination can usually proceed with standard precautions and postinjection pressure. The bleeding risk is usually small compared with the benefit of preventing vaccine-preventable disease."
+  },
+  {
+    "id": 329,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "What should you do when vaccine history is uncertain?",
+    "back": "Reconstruct records from registries, pharmacies, prior clinicians, and family before assuming immunity. Many vaccines can be safely repeated if documentation is missing, but unnecessary duplication adds cost and reactogenicity."
+  },
+  {
+    "id": 330,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "How does frailty change vaccine decision making?",
+    "back": "Frailty does not eliminate benefit, but it shifts the discussion toward prognosis, function, caregiver support, transportation, and the chance of actually completing a series. A vaccine plan should be realistic for the patient’s setting and capacity."
+  },
+  {
+    "id": 331,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "Why is documentation so important for adult immunization?",
+    "back": "Older adults often move between primary care, hospitals, rehabilitation, pharmacies, and long term care, so vaccine records are easily lost. Clear documentation prevents missed doses, duplicate doses, and confusion during transitions."
+  },
+  {
+    "id": 332,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "What are common nonallergic vaccine reactions?",
+    "back": "Local soreness, low grade fever, fatigue, and myalgias. These are expected reactogenic symptoms, not proof of allergy, and usually do not prohibit future vaccination unless there was a true severe hypersensitivity reaction."
+  },
+  {
+    "id": 333,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "How should mild chronic disease affect vaccination?",
+    "back": "Stable chronic illness, including chronic kidney disease, diabetes, and heart failure, is not a reason to avoid routine non live vaccination. In fact, these conditions increase the value of prevention."
+  },
+  {
+    "id": 334,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "What is a key counseling point after vaccination in frail older adults?",
+    "back": "Transient fatigue or reduced intake can increase fall risk and delirium risk. Ask caregivers to monitor function, hydration, mobility, and mental status after vaccination, especially when baseline reserve is limited."
+  },
+  {
+    "id": 335,
+    "chapter": 21,
+    "domain": "vaccines",
+    "front": "When is shared decision making especially useful in geriatric vaccination?",
+    "back": "When benefit is modest, records are uncertain, prior vaccination history is incomplete, or the patient has limited life expectancy and competing priorities. Shared decisions also help with product choice when multiple acceptable options exist."
+  },
+  {
+    "id": 336,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "Why are older adults more vulnerable to device-associated infection?",
+    "back": "Frailty, immobility, impaired skin and mucosal barriers, malnutrition, cognitive impairment, and frequent device exposure all increase risk. Older adults also have less physiologic reserve, so infection may present subtly and deterioration can be rapid."
+  },
+  {
+    "id": 337,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What is the central principle of management for catheter-related bloodstream infection?",
+    "back": "Source control. Remove the infected or unnecessary catheter whenever feasible, especially with persistent bacteremia, hemodynamic instability, tunnel infection, or fungal infection. Antibiotics alone are less reliable when a device biofilm is the nidus."
+  },
+  {
+    "id": 338,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "Why can a positive urine culture be misleading in a catheterized older adult?",
+    "back": "Bacteriuria becomes common with catheter use and does not equal infection. Diagnosis requires a compatible clinical syndrome, such as fever without another source, flank pain, suprapubic discomfort, or systemic instability. Cloudy or malodorous urine alone is not diagnostic."
+  },
+  {
+    "id": 339,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What clinical features support ventilator-associated pneumonia rather than colonization?",
+    "back": "Fever or leukocytosis, purulent secretions, worsening oxygenation, and a new or progressive infiltrate or other imaging change support pneumonia. Respiratory cultures alone are not enough because intubated patients commonly become colonized."
+  },
+  {
+    "id": 340,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "How should delirium influence the infection workup in older adults?",
+    "back": "Delirium should trigger a broad search for infection and noninfectious causes, including medication toxicity, hypoxemia, dehydration, and metabolic disturbance. It is a common presentation of serious illness, but it does not identify the source by itself."
+  },
+  {
+    "id": 341,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "When should a central line be removed in suspected infection?",
+    "back": "Remove it when it is unnecessary, when catheter-related bloodstream infection is likely, or when bacteremia persists, the patient is unstable, the tunnel is infected, or the organism is difficult to clear. Source control often determines success."
+  },
+  {
+    "id": 342,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What bedside clue suggests surgical-site infection needing drainage?",
+    "back": "Fluctuance, purulence, worsening pain, or wound separation suggests a collection or deeper infection. Superficial redness alone can be postoperative inflammation, but an abscess or organ-space infection often needs drainage plus surgical evaluation."
+  },
+  {
+    "id": 343,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "Why is renal function critical when selecting antimicrobials for older adults?",
+    "back": "Many agents require renal dose adjustment, and impaired kidney function increases risk of nephrotoxicity and drug accumulation. Renal function also affects the balance between adequate treatment and toxicity in frail patients."
+  },
+  {
+    "id": 344,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What is a common stewardship error in device-associated infection?",
+    "back": "Treating colonization as infection. Examples include bacteriuria without symptoms or a positive respiratory culture without a compatible pneumonia syndrome. Over-treatment increases toxicity, resistance, and C. difficile risk."
+  },
+  {
+    "id": 345,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "Why is daily device reassessment important?",
+    "back": "Each device day adds infection risk. Daily reassessment helps identify when a catheter, line, or ventilator support is no longer necessary, allowing earlier removal and reducing future infection risk."
+  },
+  {
+    "id": 346,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What supportive care issues matter during severe device-associated infection?",
+    "back": "Older adults may need cautious fluids, oxygen, hemodynamic monitoring, delirium prevention, pain control, secretion management, and early mobilization. Their reserve is limited, so supportive care strongly affects recovery."
+  },
+  {
+    "id": 347,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "How should isolation precautions be handled in healthcare-associated infection?",
+    "back": "Match precautions to the organism and syndrome according to hospital policy. Use hand hygiene and the appropriate transmission-based precautions, such as contact, droplet, or airborne, rather than blanket isolation for every infection."
+  },
+  {
+    "id": 348,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What is the best way to interpret a positive line or urine culture?",
+    "back": "Interpret it in the full clinical context. Culture positivity can reflect colonization or contamination. The diagnosis depends on symptoms, instability, device history, and whether the culture matches the suspected syndrome."
+  },
+  {
+    "id": 349,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "What discharge information is most useful after device-associated infection?",
+    "back": "Whether any device remains necessary, when it should be removed, what follow-up cultures or wound checks are pending, and who will monitor for relapse. Clear handoff reduces recurrence and readmission."
+  },
+  {
+    "id": 350,
+    "chapter": 22,
+    "domain": "healthcare",
+    "front": "How does goals of care shape treatment of device-associated infection?",
+    "back": "Frail older adults may prefer comfort-focused care and less invasive management, while others want full source control and antimicrobial therapy. Treatment should align with prognosis, function, and the patient’s values."
+  },
+  {
+    "id": 351,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What is the earliest practical sign of an outbreak in long-term care?",
+    "back": "Often a cluster of nonspecific changes such as delirium, falls, poor intake, lethargy, or new functional decline on one unit. Fever may be absent in frail older adults, so surveillance must look beyond classic symptom patterns."
+  },
+  {
+    "id": 352,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What information belongs on an outbreak line list?",
+    "back": "Resident or staff identifier, onset date, symptoms, location, shared exposures, test results, and outcome. A line list helps identify clustering, likely transmission routes, and who needs additional testing or precautions."
+  },
+  {
+    "id": 353,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "Why are frail older adults harder to assess during outbreaks?",
+    "back": "They may not mount fever or strong inflammatory responses, and dementia or hearing loss may limit symptom reporting. Functional decline, delirium, and anorexia may be more useful clues than temperature alone."
+  },
+  {
+    "id": 354,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What is cohorting in long-term care infection control?",
+    "back": "Grouping infected residents together and, when feasible, assigning dedicated staff to them. Cohorting limits opportunities for spread when private rooms or perfect isolation are not available."
+  },
+  {
+    "id": 355,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "Why is source control more than just patient isolation?",
+    "back": "It also includes staff assignment, hand hygiene, shared equipment cleaning, suspension of communal activities, and environmental cleaning. In long-term care, transmission often occurs through multiple operational pathways, not only direct resident contact."
+  },
+  {
+    "id": 356,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "When should antibiotics be used during an outbreak?",
+    "back": "Only when the resident has a syndrome consistent with bacterial infection or severe illness warrants empiric therapy. Antibiotics should be reassessed promptly and stopped if data do not support bacterial disease."
+  },
+  {
+    "id": 357,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "Why is stewardship especially important in nursing homes?",
+    "back": "Unnecessary antibiotics increase resistance, drug toxicity, diarrhea, and C. difficile risk. They also can obscure the true diagnosis and expose frail residents with kidney disease and polypharmacy to avoidable harm."
+  },
+  {
+    "id": 358,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What makes assisted living outbreak control challenging?",
+    "back": "Medical oversight may be less continuous, staffing can be thin, and residents may participate in more communal activities. Rapid surveillance and communication are still necessary, but the operational structure differs from skilled nursing."
+  },
+  {
+    "id": 359,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What should be communicated when a resident transfers during an outbreak?",
+    "back": "The suspected or confirmed organism, outbreak status, current isolation or cohorting precautions, recent exposures, and pending results. This prevents gaps in infection control at the receiving site."
+  },
+  {
+    "id": 360,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "How can isolation harm older adults?",
+    "back": "It may worsen delirium, reduce mobility and oral intake, increase loneliness, and impair therapy participation. Isolation plans should preserve hydration, toileting, sensory aids, and mobility whenever possible."
+  },
+  {
+    "id": 361,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "Why are shared devices a common transmission source?",
+    "back": "Blood pressure cuffs, wheelchairs, gait belts, pulse oximeters, and thermometers move between residents. If cleaning between uses is inconsistent, they can spread pathogens efficiently."
+  },
+  {
+    "id": 362,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What is a common diagnostic pitfall during outbreaks?",
+    "back": "Assuming every positive test explains the syndrome. Colonization, asymptomatic shedding, or incidental detection can lead to unnecessary isolation and treatment if the result is not interpreted in clinical context."
+  },
+  {
+    "id": 363,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "What monitoring should occur during an outbreak?",
+    "back": "Daily review of new cases, adherence to precautions, staffing gaps, supply needs, and resident status. Monitoring should also track whether control measures are reducing transmission or need adjustment."
+  },
+  {
+    "id": 364,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "Why is family communication part of outbreak management?",
+    "back": "Families and surrogates need to understand precautions, goals of care, and expected tradeoffs such as isolation or restricted visits. Clear communication improves trust and helps align infection control with resident preferences."
+  },
+  {
+    "id": 365,
+    "chapter": 23,
+    "domain": "long_term_care",
+    "front": "How do vaccination programs fit into outbreak prevention?",
+    "back": "Routine vaccination of residents and staff lowers the risk and severity of preventable infections, but it does not replace surveillance, hand hygiene, cleaning, or prompt outbreak response."
+  },
+  {
+    "id": 366,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What is the central clinical distinction in multidrug-resistant organisms?",
+    "back": "Colonization versus infection. A resistant organism may be present without causing disease, especially in urine, stool, chronic wounds, or screening cultures. Treatment is reserved for a compatible clinical syndrome with a relevant source, not for the culture result alone."
+  },
+  {
+    "id": 367,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "Why is prior antibiotic exposure clinically relevant in resistant infections?",
+    "back": "Repeated exposure selects for resistant flora and can change the organisms likely to cause future infection. In older adults with frequent hospital or nursing facility contact, prior antibiotics often predict which resistant pathogens should be considered in empiric therapy."
+  },
+  {
+    "id": 368,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What is the usual meaning of MRSA in a chronic wound culture?",
+    "back": "It may represent colonization rather than invasive infection. A chronic wound culture is more convincing for true infection when there is surrounding cellulitis, purulence, deep tissue involvement, osteomyelitis, bacteremia, or systemic illness."
+  },
+  {
+    "id": 369,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "When does VRE in urine require treatment?",
+    "back": "Only when there is a compatible infection syndrome, such as symptomatic urinary infection or invasive disease. In older adults with chronic catheters or functional impairment, VRE in urine is often colonization or asymptomatic bacteriuria."
+  },
+  {
+    "id": 370,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What is the key therapeutic issue with CRE?",
+    "back": "Treatment choices may be very limited, so susceptibility testing is essential. Some isolates remain susceptible to newer beta-lactam and beta-lactamase inhibitor combinations. Therapy should be tailored to the organism and site of infection."
+  },
+  {
+    "id": 371,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What makes ESBL-producing Enterobacterales clinically important?",
+    "back": "They can inactivate many penicillins and cephalosporins, making standard empiric therapy unreliable for serious infection. Susceptibility testing should guide definitive treatment, and the narrowest active agent should be used when possible."
+  },
+  {
+    "id": 372,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "How should Candida auris colonization be managed?",
+    "back": "Colonization alone does not require antifungal treatment. C. auris is important because it can persist on skin and surfaces and spread in healthcare settings, but therapy is reserved for invasive infection."
+  },
+  {
+    "id": 373,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What is the role of source control in resistant infections?",
+    "back": "It is often decisive. Remove or exchange infected catheters, drain abscesses, debride infected tissue, and relieve obstruction when feasible. Antibiotics alone often fail without source control."
+  },
+  {
+    "id": 374,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "Why are older adults at higher risk of medication harm from resistant infection treatment?",
+    "back": "They often have reduced renal reserve, polypharmacy, frailty, and baseline delirium risk. Toxicity, drug interactions, and functional decline can occur even when the antimicrobial is microbiologically appropriate."
+  },
+  {
+    "id": 375,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What is a common diagnostic pitfall with resistant organisms in urine?",
+    "back": "Treating the culture instead of the patient. Asymptomatic bacteriuria is common in older adults, especially with urinary devices or functional impairment, and does not justify antibiotics without a compatible syndrome."
+  },
+  {
+    "id": 376,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "Why does renal function matter in MDR organism therapy?",
+    "back": "Many active agents require dose adjustment, and kidney disease increases the risk of toxicity. Renal-aware prescribing is especially important in frail older adults with fluctuating volume status or baseline chronic kidney disease."
+  },
+  {
+    "id": 377,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What does a positive MRSA nares screen usually mean?",
+    "back": "Colonization, not infection. It can help estimate future risk and inform empiric choices, but it does not by itself justify systemic anti-MRSA therapy."
+  },
+  {
+    "id": 378,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "How should clinicians think about contact precautions for resistant organisms?",
+    "back": "They reduce transmission in healthcare settings, especially for organisms like MRSA, VRE, and C. auris. They do not replace diagnosis or treatment, and they should be balanced against mobility, cognition, and social needs."
+  },
+  {
+    "id": 379,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "Why is documentation of colonization history useful during transitions of care?",
+    "back": "It informs future empiric therapy and infection prevention decisions. Clear documentation also helps receiving facilities distinguish prior colonization from active infection and may prevent unnecessary treatment or avoid missed risk recognition."
+  },
+  {
+    "id": 380,
+    "chapter": 24,
+    "domain": "resistance",
+    "front": "What is the best overall approach to a frail older adult with a resistant isolate?",
+    "back": "Define the syndrome, determine whether the organism is causing infection, obtain source control when needed, choose the narrowest effective therapy, and reassess response and toxicity frequently while aligning treatment with goals of care."
+  },
+  {
+    "id": 381,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "Why can serious infection present without fever in older immunosuppressed adults?",
+    "back": "Fever may be blunted by corticosteroids, neutropenia, transplant medications, and age-related immune changes. Delirium, weakness, falls, poor intake, or abrupt loss of function may be the earliest clues."
+  },
+  {
+    "id": 382,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What is the key initial management principle for suspected severe infection in immunosuppressed patients?",
+    "back": "Obtain cultures and start prompt empiric therapy after specimen collection when feasible. Do not delay treatment for complete diagnostic certainty if sepsis or invasive infection is possible."
+  },
+  {
+    "id": 383,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "How does asplenia change infection management?",
+    "back": "Asplenia increases risk for rapid, fulminant sepsis from encapsulated bacteria. Fever is a medical urgency, and clinicians should treat promptly while arranging urgent evaluation and antibiotics."
+  },
+  {
+    "id": 384,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What infection pattern is typical of neutropenia?",
+    "back": "Neutropenia predisposes to severe bacterial and fungal infection with minimal local inflammatory signs. Febrile neutropenia requires immediate antipseudomonal broad-spectrum therapy."
+  },
+  {
+    "id": 385,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "Why do transplant recipients need medication interaction review during infection treatment?",
+    "back": "Many antimicrobials change levels of tacrolimus, cyclosporine, and related agents. This can cause nephrotoxicity, neurotoxicity, rejection risk, or underimmunosuppression."
+  },
+  {
+    "id": 386,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What is the role of source control in immunosuppressed infection?",
+    "back": "Drain abscesses, remove infected lines when indicated, debride necrotic tissue, and relieve obstruction. Antibiotics alone are often inadequate without source control."
+  },
+  {
+    "id": 387,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "How should corticosteroids be handled during serious infection?",
+    "back": "The decision is individualized. Temporary interruption or dose reduction may be needed, but abrupt cessation can cause adrenal insufficiency or flare of the underlying disease."
+  },
+  {
+    "id": 388,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What clinical change in an older adult should raise concern for infection even without fever?",
+    "back": "New delirium, falls, weakness, anorexia, or sudden functional decline should prompt evaluation for infection, especially in immunosuppressed or frail patients."
+  },
+  {
+    "id": 389,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What is the main prevention strategy for many immunosuppressed older adults?",
+    "back": "Use recommended inactivated vaccines when feasible, plus syndrome specific prophylaxis, education, and early evaluation for fever or exposure. Live vaccines are usually avoided in significant immunosuppression."
+  },
+  {
+    "id": 390,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "Why are renal function checks central during infection treatment in this population?",
+    "back": "Older immunosuppressed patients often have chronic kidney disease and take nephrotoxic or renally cleared drugs. Kidney injury affects antimicrobial dosing and can magnify drug toxicity."
+  },
+  {
+    "id": 391,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What should be communicated at discharge after infection treatment?",
+    "back": "Document the diagnosis, stop date, monitoring plan, return precautions, and any immunosuppressant changes. Clear handoff to transplant, oncology, primary care, and caregivers reduces readmissions."
+  },
+  {
+    "id": 392,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "How can biologic therapy affect infection risk?",
+    "back": "Some biologics and targeted agents increase risk of tuberculosis, hepatitis B reactivation, or herpes zoster. Screening and prevention depend on the specific agent."
+  },
+  {
+    "id": 393,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What is a common diagnostic pitfall in immunosuppressed older adults?",
+    "back": "Attributing symptoms entirely to baseline frailty, rejection, or medication toxicity can miss coexisting infection. Infection and noninfectious complications often overlap."
+  },
+  {
+    "id": 394,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "When is oral step-down therapy reasonable?",
+    "back": "Only when the patient is hemodynamically stable, improving, absorbing oral medications, and has a reliable follow-up plan. Severe infection or uncontrolled source often requires IV therapy longer."
+  },
+  {
+    "id": 395,
+    "chapter": 25,
+    "domain": "immunosuppression",
+    "front": "What caregiver instruction is especially important for asplenic patients?",
+    "back": "Seek urgent care for fever, confusion, or sudden weakness. Asplenic patients can progress quickly from mild symptoms to life-threatening sepsis."
+  },
+  {
+    "id": 396,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What host factors matter most in pretravel assessment for older adults?",
+    "back": "Destination risk must be paired with frailty, cognition, chronic disease, renal and hepatic function, immunosuppression, and the medication list. The key question is not only what exposure is possible, but what the traveler can tolerate, adhere to, and recognize as urgent while away."
+  },
+  {
+    "id": 397,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What is the most important diagnosis to exclude in a febrile returning traveler from a malaria area?",
+    "back": "Malaria. Any fever after exposure in an endemic region warrants urgent testing, and initial negative testing may need to be repeated if suspicion remains high. Older adults can present with weakness, confusion, or falls rather than classic cyclical fever."
+  },
+  {
+    "id": 398,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "How does dengue differ from malaria in prevention?",
+    "back": "Dengue is mosquito borne but is not prevented by antimalarial prophylaxis. Prevention depends on mosquito avoidance, and treatment is mainly supportive with careful attention to fluids and bleeding risk."
+  },
+  {
+    "id": 399,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "Why are older adults at higher risk from travelers’ diarrhea?",
+    "back": "They are more likely to become dehydrated, orthostatic, or delirious, and medications such as diuretics, ACE inhibitors, ARBs, lithium, and SGLT2 inhibitors can worsen kidney injury or volume loss. Even brief illness can destabilize function."
+  },
+  {
+    "id": 400,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "When is empiric antibiotic treatment reasonable for travelers’ diarrhea?",
+    "back": "It is reasonable for moderate to severe nonbloody diarrhea that disrupts function, or for dysentery and high fever when bacterial disease is likely. Mild brief illness usually needs oral rehydration and observation rather than antibiotics."
+  },
+  {
+    "id": 401,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "Which antimalarial prophylaxis concern is most relevant in cognitive or psychiatric vulnerability?",
+    "back": "Mefloquine can cause neuropsychiatric adverse effects and is a poor choice in patients with mood disorder, anxiety, seizure disorder, or cognitive impairment. Prophylaxis should match the traveler’s vulnerability as well as the destination."
+  },
+  {
+    "id": 402,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What is the main safety issue with doxycycline in older travelers?",
+    "back": "Esophagitis, photosensitivity, and pill burden. It can be effective for malaria prophylaxis, but swallowing difficulty, upright posture after dosing, and adherence issues matter more in older adults."
+  },
+  {
+    "id": 403,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "Why is yellow fever vaccination a special decision in older adults?",
+    "back": "Adverse events are more concerning with increasing age, so the decision should be individualized using destination risk, entry requirements, prior vaccination status, and access to alternatives or exemption documentation."
+  },
+  {
+    "id": 404,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What should clinicians ask about in a returning traveler with fever?",
+    "back": "Exact destinations and dates, rural versus urban exposure, insect bites, freshwater contact, food and water exposures, sick contacts, respiratory exposures, and any prophylaxis or vaccines used. The timeline often narrows the diagnosis more than one test."
+  },
+  {
+    "id": 405,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "Why is confusion after travel a red flag?",
+    "back": "In older adults, delirium may be the presenting sign of malaria, severe dengue, dehydration, pneumonia, or bacterial sepsis. A seemingly mild fever can still represent a time sensitive infection that needs urgent evaluation."
+  },
+  {
+    "id": 406,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What is the preferred first step for stable suspected dengue?",
+    "back": "Supportive care with hydration, acetaminophen for fever or pain, and monitoring for warning signs. Avoid unnecessary NSAIDs or other drugs that increase bleeding risk, especially when platelets are low or anticoagulation is present."
+  },
+  {
+    "id": 407,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "How should clinicians think about source control in travel medicine?",
+    "back": "Source control means preventing exposure through itinerary changes, mosquito protection, safe food and water practices, and avoiding settings that are too risky for the traveler’s reserve. Sometimes the safest intervention is modifying or postponing the trip."
+  },
+  {
+    "id": 408,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What monitoring matters after starting malaria treatment in an older adult?",
+    "back": "Mental status, renal function, glucose, electrolytes, and the ability to tolerate oral therapy. Frailty and comorbidity raise the risk of rapid decompensation and treatment complications."
+  },
+  {
+    "id": 409,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "Why do respiratory infections matter in travel medicine for older adults?",
+    "back": "Crowded transit, cruise ships, hotels, and gatherings increase transmission of influenza, COVID 19, and other respiratory pathogens. Older adults are more likely to need early evaluation because hypoxemia and delirium may appear before classic symptoms are obvious."
+  },
+  {
+    "id": 410,
+    "chapter": 26,
+    "domain": "travel",
+    "front": "What should the return plan include for an older traveler?",
+    "back": "Clear instructions on when to seek urgent care, where to get evaluated, and which symptoms are emergencies, especially fever after malaria exposure, bleeding, dyspnea, or significant diarrhea with dehydration. Caregivers should know the plan too."
+  },
+  {
+    "id": 411,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What is the main timing principle for surgical antibiotic prophylaxis?",
+    "back": "Prophylactic antibiotics should be given so tissue levels are present at the time of incision. Giving them too early or after incision reduces effectiveness. Redosing may be needed during prolonged procedures or major blood loss."
+  },
+  {
+    "id": 412,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "Why are older adults more vulnerable to perioperative infection complications?",
+    "back": "They often have frailty, diabetes, chronic kidney disease, malnutrition, impaired mobility, and polypharmacy. They also have less physiologic reserve and may show less fever or leukocytosis, so infection can present subtly."
+  },
+  {
+    "id": 413,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What bedside change should prompt infection evaluation after surgery in an older adult?",
+    "back": "New delirium, weakness, poor intake, tachypnea, hypotension, or functional decline should trigger reassessment. In older adults, infection often appears as a change in cognition or mobility rather than obvious fever."
+  },
+  {
+    "id": 414,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What is source control in postoperative infection?",
+    "back": "Source control means removing or correcting the infected focus, such as draining an abscess, opening a wound, debriding devitalized tissue, or removing an infected catheter or drain when feasible. Antibiotics alone are often insufficient without it."
+  },
+  {
+    "id": 415,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "Why is normothermia part of infection prevention?",
+    "back": "Hypothermia reduces tissue perfusion and oxygen delivery and impairs immune function, increasing infection risk. Maintaining normothermia also helps reduce shivering and coagulopathy, which matter in older adults with limited reserve."
+  },
+  {
+    "id": 416,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "How does hyperglycemia affect postoperative infection risk?",
+    "back": "Hyperglycemia impairs neutrophil function and wound healing. Perioperative glucose control is part of infection prevention, especially in older adults with diabetes or stress hyperglycemia and variable oral intake."
+  },
+  {
+    "id": 417,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "When should postoperative antibiotics usually be stopped?",
+    "back": "They should usually stop after the intended prophylactic period or once infection is excluded and source control is adequate. Prolonging antibiotics without a clear indication increases harm and rarely improves outcomes."
+  },
+  {
+    "id": 418,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What skin preparation and hair removal practices reduce infection risk?",
+    "back": "Use appropriate antiseptic skin preparation and remove hair only if necessary. If hair removal is needed, clippers are preferred over razors because razors create microabrasions that increase infection risk."
+  },
+  {
+    "id": 419,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "Why do beta-lactam allergy histories matter before prophylaxis?",
+    "back": "Many reported allergies are not true immediate hypersensitivity. Clarifying the reaction can allow use of the preferred prophylactic antibiotic and avoid broader, less effective, or more toxic alternatives."
+  },
+  {
+    "id": 420,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What postoperative symptoms can reflect infection outside the wound?",
+    "back": "Pneumonia, urinary infection, line infection, urinary retention, hypoxia, and medication toxicity can all present as confusion, fever, tachypnea, or decline. A stable incision does not exclude other infectious sources."
+  },
+  {
+    "id": 421,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "Why is kidney function important when choosing prophylactic antibiotics?",
+    "back": "Older adults with chronic kidney disease are at higher risk for drug accumulation and adverse effects. Renal function affects dosing, toxicity risk, and selection of agents when alternatives are available."
+  },
+  {
+    "id": 422,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What is the role of local resistance patterns in prophylaxis?",
+    "back": "Procedure-specific prophylaxis should account for local susceptibility patterns and patient colonization history when relevant. Standard choices may need adjustment if local resistance or prior resistant organisms change expected coverage."
+  },
+  {
+    "id": 423,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What is the difference between prophylaxis and treatment?",
+    "back": "Prophylaxis prevents expected inoculation during surgery. Treatment addresses established infection. Once infection exists, source control and culture-guided therapy become central, and prolonged prophylaxis is not an adequate substitute."
+  },
+  {
+    "id": 424,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "Why should caregivers receive wound and warning-sign instructions at discharge?",
+    "back": "Older adults may not recognize or report infection early, especially if cognition is impaired. Clear instructions about drainage, redness, fever, pain, confusion, and functional decline improve early reassessment after discharge."
+  },
+  {
+    "id": 425,
+    "chapter": 27,
+    "domain": "perioperative",
+    "front": "What medication harms are common in perioperative infection management?",
+    "back": "Antibiotics can cause kidney injury, diarrhea, rash, delirium, and drug interactions. Opioids and sedatives can mask symptoms and worsen confusion or immobility. Medication review is part of infection-safe care."
+  },
+  {
+    "id": 426,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What bedside features suggest odontogenic infection beyond simple toothache?",
+    "back": "Facial swelling, fluctuance, gingival edema, trismus, dysphagia, fever, or cervical spread suggest infection rather than uncomplicated pain. In older adults, inability to eat or open the mouth may be the key red flag even when fever is absent."
+  },
+  {
+    "id": 427,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "Why are antibiotics alone often insufficient for dental abscess?",
+    "back": "Odontogenic infections usually require source control such as drainage, root canal therapy, or extraction. Antibiotics may reduce spread, but they do not remove necrotic pulp or a walled-off abscess."
+  },
+  {
+    "id": 428,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "Which oral findings suggest deep space infection?",
+    "back": "Floor-of-mouth elevation, muffled voice, drooling, trismus, dysphagia, submandibular swelling, and neck tenderness raise concern for deep space extension and possible airway compromise."
+  },
+  {
+    "id": 429,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What is the geriatric clue that a mouth infection is severe?",
+    "back": "Function loss is often more informative than fever. New inability to eat, swallow, take medications, or maintain hydration should prompt urgent escalation in frail older adults."
+  },
+  {
+    "id": 430,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What are common risk factors for oral candidiasis in older adults?",
+    "back": "Xerostomia, dentures, diabetes, recent antibiotics, inhaled or systemic corticosteroids, malnutrition, and immunosuppression all increase risk for Candida overgrowth."
+  },
+  {
+    "id": 431,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "How does oral candidiasis typically present?",
+    "back": "It can appear as removable white plaques, erythematous glossitis, angular cheilitis, mouth soreness, taste change, or painful swallowing if the esophagus is involved."
+  },
+  {
+    "id": 432,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "When is topical therapy appropriate for oral candidiasis?",
+    "back": "Topical antifungal treatment is appropriate for localized disease when the patient can use the medication reliably and there is no evidence of extensive or esophageal involvement."
+  },
+  {
+    "id": 433,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What makes a red eye concerning for keratitis or other ocular emergency?",
+    "back": "Pain, photophobia, reduced visual acuity, corneal opacity, contact lens use, or fluorescein uptake should shift concern away from simple conjunctivitis and toward urgent ophthalmology evaluation."
+  },
+  {
+    "id": 434,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "Why is contact lens use a major ocular red flag?",
+    "back": "Contact lens use increases risk for corneal infection and ulceration, especially when pain, photophobia, or corneal staining is present. Lenses should be stopped until the eye is cleared."
+  },
+  {
+    "id": 435,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What clinical features are typical of bacterial conjunctivitis?",
+    "back": "Purulent discharge, conjunctival injection, and mild irritation with preserved vision are common. Severe pain, photophobia, or blurred vision are not typical and require reevaluation."
+  },
+  {
+    "id": 436,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What distinguishes endophthalmitis from conjunctivitis?",
+    "back": "Endophthalmitis is infection inside the eye and is an emergency. It usually presents with pain, reduced vision, and marked inflammation, often after surgery, trauma, or bacteremia."
+  },
+  {
+    "id": 437,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What is the role of infective endocarditis prophylaxis in dentistry?",
+    "back": "Prophylaxis is reserved for selected high-risk cardiac conditions and specific dental procedures. It is not used for all older adults with heart disease or all dental infections."
+  },
+  {
+    "id": 438,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "Why must clinicians review medications before treating oral or ocular infection?",
+    "back": "Anticoagulants, antiarrhythmics, hypoglycemics, and other common geriatric drugs can interact with antibiotics and azoles. Medication burden also affects adherence, toxicity, and procedural planning."
+  },
+  {
+    "id": 439,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What preventive steps reduce recurrent oral infection?",
+    "back": "Dental hygiene, denture care, saliva management, smoking cessation, inhaler rinsing after corticosteroid use, and timely dental follow-up all reduce recurrence and complications."
+  },
+  {
+    "id": 440,
+    "chapter": 28,
+    "domain": "oral_ocular",
+    "front": "What should discharge instructions emphasize after oral or ocular infection treatment?",
+    "back": "Explain how to use medications, when source control or specialty follow-up will occur, and which symptoms require urgent return such as worsening swelling, fever, trismus, vision loss, or severe pain."
+  },
+  {
+    "id": 441,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "Why can bone and joint infection be missed in older adults?",
+    "back": "Older adults may lack fever, marked leukocytosis, or dramatic inflammatory findings. Pain can be misattributed to degenerative disease, and presentation may be delirium, falls, or functional decline. Frailty, cognitive impairment, and multimorbidity all lower the reliability of a classic history."
+  },
+  {
+    "id": 442,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What is the key first diagnostic step in suspected septic arthritis?",
+    "back": "Urgent arthrocentesis, when feasible, with synovial fluid for cell count, differential, Gram stain, culture, and crystal analysis. Crystal disease does not exclude infection. In stable patients, aspiration should generally occur before antibiotics to preserve culture yield."
+  },
+  {
+    "id": 443,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "Why is prosthetic joint infection difficult to cure with antibiotics alone?",
+    "back": "Microorganisms adhere to the implant and form biofilm. Biofilm reduces antibiotic penetration and changes bacterial behavior, making eradication difficult without debridement or implant exchange in many cases."
+  },
+  {
+    "id": 444,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "Which imaging study is preferred for vertebral osteomyelitis?",
+    "back": "MRI is preferred because it shows marrow edema, disc involvement, epidural extension, and paraspinal abscess. Plain radiographs can be normal early and are less useful for establishing the diagnosis."
+  },
+  {
+    "id": 445,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "When should vertebral osteomyelitis be suspected?",
+    "back": "Consider it in older adults with focal back pain, vertebral tenderness, elevated inflammatory markers, neurologic symptoms, or unexplained functional decline. Fever may be absent, so persistent focal pain deserves targeted evaluation."
+  },
+  {
+    "id": 446,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What makes chronic osteomyelitis persist?",
+    "back": "Necrotic bone, sequestra, sinus tracts, and sometimes retained hardware create a protected nidus for infection. Antibiotics penetrate poorly without debridement or removal of devitalized tissue when feasible."
+  },
+  {
+    "id": 447,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What role do blood cultures play in vertebral osteomyelitis?",
+    "back": "Blood cultures may identify the pathogen without biopsy, especially when bacteremia is present. If blood cultures are negative and the patient is stable, image-guided biopsy is often needed for microbiologic diagnosis."
+  },
+  {
+    "id": 448,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What is the usual management concept for septic arthritis?",
+    "back": "Prompt drainage plus targeted antibiotics. The joint should not be left undrained because ongoing intra-articular infection can quickly destroy cartilage and impair function."
+  },
+  {
+    "id": 449,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "How does frailty affect treatment decisions for prosthetic joint infection?",
+    "back": "Frailty changes the risk benefit balance for surgery, rehabilitation, and prolonged antibiotics. In some patients, symptom control or suppressive therapy may better match goals of care than aggressive curative surgery."
+  },
+  {
+    "id": 450,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "Why does kidney function matter so much in these infections?",
+    "back": "Many effective antibiotics require renal adjustment and can cause nephrotoxicity. Older adults may have reduced creatinine production, so serum creatinine alone can overestimate renal reserve."
+  },
+  {
+    "id": 451,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "Why should antibiotics usually wait until after cultures in a stable patient?",
+    "back": "Pre-treatment can sterilize synovial fluid, blood, or operative samples and reduce the chance of identifying the pathogen. If the patient is unstable, treatment should not be delayed, but culture collection should still be prioritized first when possible."
+  },
+  {
+    "id": 452,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What clinical clue suggests prosthetic joint infection despite normal radiographs?",
+    "back": "Painful swelling, recurrent effusion, wound drainage, or loss of function in a prosthetic joint should raise concern even when plain films look unchanged. Radiographs cannot reliably rule out infection."
+  },
+  {
+    "id": 453,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What are common monitoring priorities during prolonged therapy?",
+    "back": "Track pain, mobility, wound status, renal function, blood counts when relevant, medication interactions, and signs of relapse or toxicity. Repeated imaging is not routine if the patient is improving clinically."
+  },
+  {
+    "id": 454,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "Why is discharge planning especially important in older adults with these infections?",
+    "back": "Cognitive impairment, frailty, and limited mobility can make medication adherence, wound care, follow-up, and warning sign recognition unreliable without caregiver support and clear instructions."
+  },
+  {
+    "id": 455,
+    "chapter": 29,
+    "domain": "bones_joints",
+    "front": "What is the main treatment principle shared by these infections?",
+    "back": "Combine source control with targeted antimicrobial therapy whenever cure is intended. The exact procedure and duration vary by anatomic site, organism, and patient goals."
+  },
+  {
+    "id": 456,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What are the common noninfectious causes of fever of unknown origin in older adults?",
+    "back": "Medication fever, vasculitis, inflammatory rheumatic disease, and malignancy are major noninfectious causes. In older adults, these often present with constitutional symptoms, functional decline, or delirium rather than a dramatic focal syndrome."
+  },
+  {
+    "id": 457,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "Why can serious disease present with only a modest fever in older adults?",
+    "back": "Aging blunts the febrile response and can reduce the height of temperature elevation even in significant disease. Clinicians should weigh delirium, weakness, tachypnea, anorexia, and hemodynamic change along with the temperature curve."
+  },
+  {
+    "id": 458,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What medication history is essential in unexplained fever?",
+    "back": "Review all recent prescription drugs, stopped drugs, over-the-counter agents, herbals, and antibiotics. A new medication started days to weeks before fever strongly raises the possibility of drug fever or hypersensitivity."
+  },
+  {
+    "id": 459,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What clues point toward giant cell arteritis in a patient with fever?",
+    "back": "Headache, scalp tenderness, jaw claudication, proximal stiffness, elevated inflammatory markers, and visual symptoms are key. Fever may be the presenting clue in older adults, and urgent treatment may be needed if ischemic symptoms are present."
+  },
+  {
+    "id": 460,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "When should occult endovascular infection be pursued?",
+    "back": "Consider endocarditis or related infection with persistent fever, new murmur, embolic findings, persistent bacteremia, or recent procedures. Echocardiography and source-directed cultures are often more useful than repeated nonspecific testing."
+  },
+  {
+    "id": 461,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What features suggest vertebral osteomyelitis or epidural infection?",
+    "back": "Back pain, elevated inflammatory markers, bacteremia, neurologic symptoms, or persistent fever despite therapy should prompt concern. Imaging is warranted when the spinal source is plausible, especially in frail older adults."
+  },
+  {
+    "id": 462,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "How does drug fever typically improve after stopping the culprit?",
+    "back": "Defervescence usually follows withdrawal of the offending drug, though the timing varies. The diagnosis is supported by exclusion of other causes and recurrence if the agent is inadvertently restarted."
+  },
+  {
+    "id": 463,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "Why is broad empiric therapy often a poor default in stable fever of unknown origin?",
+    "back": "It can obscure diagnosis, cause nephrotoxicity, promote Clostridioides difficile infection, and delay recognition of vasculitis, malignancy, or drug fever. Stable patients usually benefit from targeted reassessment first."
+  },
+  {
+    "id": 464,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What role does source control play in unexplained fever?",
+    "back": "If a focal infection is found, drainage, debridement, or removal of infected hardware can be decisive. Antibiotics alone may not clear fever if an abscess, obstructed system, or infected device remains in place."
+  },
+  {
+    "id": 465,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What supportive care matters most in frail older adults with persistent fever?",
+    "back": "Hydration, delirium prevention, mobility support, pain control, nutrition, and close reassessment are central. Supportive care should be individualized to function, kidney function, and goals of care."
+  },
+  {
+    "id": 466,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What adverse effects should be monitored during steroid treatment for vasculitis?",
+    "back": "Watch for hyperglycemia, delirium, fluid retention, infection, mood change, and myopathy. Older adults are especially vulnerable to functional decline from corticosteroid toxicity."
+  },
+  {
+    "id": 467,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "How should inflammatory markers be interpreted in fever of unknown origin?",
+    "back": "Elevated markers support inflammation but are not specific. They can be seen in infection, vasculitis, malignancy, and other inflammatory syndromes, so they should guide pattern recognition rather than serve as a diagnosis."
+  },
+  {
+    "id": 468,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What is the diagnostic value of repeated examination in fever of unknown origin?",
+    "back": "Repeated exams can reveal evolving localization such as a new murmur, temporal tenderness, joint swelling, rash, abdominal findings, or spinal pain. Serial assessment is often more informative than repeating broad laboratory panels."
+  },
+  {
+    "id": 469,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "Why is cognitive assessment relevant in fever evaluation?",
+    "back": "Delirium may be the main manifestation of infection or inflammation in older adults. Baseline cognition helps distinguish acute change from chronic impairment and can reveal severity that temperature alone misses."
+  },
+  {
+    "id": 470,
+    "chapter": 30,
+    "domain": "fever",
+    "front": "What should be documented at transitions of care after fever evaluation?",
+    "back": "Record the suspected diagnosis, cultures and imaging completed, medications stopped, source control achieved, planned duration if treating infection, and follow-up for pending results. Clear documentation prevents restarting a culprit drug or prolonging unnecessary antibiotics."
+  },
+  {
+    "id": 471,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What is the main purpose of antimicrobial communication at discharge?",
+    "back": "To prevent omitted doses, duplicated therapy, unintended prolongation, and missed toxicity. The discharge plan should tell the receiving clinician what infection is being treated, what drug and dose are being used, how long therapy should continue, and who is responsible for reassessment."
+  },
+  {
+    "id": 472,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "Which discharge elements are essential for an antibiotic handoff?",
+    "back": "Diagnosis, source control status, drug, dose, route, renal adjustment, start date, stop date or review date, expected response, and follow-up responsibility. If any of these are missing, the receiving team may be unable to continue therapy safely."
+  },
+  {
+    "id": 473,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "Why are older adults at higher risk for discharge antibiotic errors?",
+    "back": "They often have multimorbidity, chronic kidney disease, cognitive impairment, frailty, polypharmacy, and dependence on caregivers. These factors make dosing, adherence, monitoring, and symptom reporting less reliable after discharge."
+  },
+  {
+    "id": 474,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What is a common cause of apparent postdischarge antibiotic failure?",
+    "back": "Medication discrepancy. The patient may receive the wrong drug, dose, formulation, or duration, or may not take the antibiotic as intended. Review the actual medication supply and compare it with the intended plan before labeling the infection as refractory."
+  },
+  {
+    "id": 475,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What should a transition note say about source control?",
+    "back": "Whether drainage, debridement, device removal, or relief of obstruction was completed, pending, or not possible. If source control is incomplete, the next clinician needs a lower threshold for reassessment and escalation if the patient worsens."
+  },
+  {
+    "id": 476,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "When is an antimicrobial time-out useful after discharge?",
+    "back": "When the patient is improving, culture data return, or the original diagnosis remains uncertain. The receiving clinician should reassess whether therapy should continue, be narrowed, or be stopped rather than allowing the antibiotic to persist by default."
+  },
+  {
+    "id": 477,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "How should renal function be handled in discharge antibiotic communication?",
+    "back": "State whether the dose was adjusted for kidney function and whether renal function is stable, improving, or worsening. Older adults can quickly move from appropriate dosing in the hospital to toxicity after discharge if this is not communicated."
+  },
+  {
+    "id": 478,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "Why is medication reconciliation critical for antibiotics?",
+    "back": "Antibiotics interact with common chronic drugs and may be duplicated across settings. Reconciliation identifies conflicts with anticoagulants, hypoglycemics, sedatives, and other therapies, and it clarifies which home medications were intentionally held or changed."
+  },
+  {
+    "id": 479,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What symptoms should be monitored after discharge on antibiotics?",
+    "back": "Clinical response and adverse effects. Watch for fever, worsening pain, confusion, poor intake, diarrhea, rash, bleeding, renal dysfunction, and new weakness. Monitoring should match the drug, the infection, and the patient’s baseline function."
+  },
+  {
+    "id": 480,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "How do cognition and function change antibiotic transitions?",
+    "back": "They determine whether the regimen is workable. Swallowing difficulty, poor dexterity, delirium, or dementia may make standard prescriptions unrealistic. The plan should specify who administers medications, how adherence is checked, and when to call for help."
+  },
+  {
+    "id": 481,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What is the risk of vague instructions like continue antibiotics for several days?",
+    "back": "They invite prolonged therapy, early discontinuation, and inconsistent follow-up. A precise number of days or a defined reassessment date is safer, especially for older adults moving between hospital, home, and nursing facility settings."
+  },
+  {
+    "id": 482,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What should be included if the patient is discharged to a nursing home?",
+    "back": "The facility should receive the diagnosis, medication list, antibiotic stop date, culture or imaging results if available, and the specific signs that require notification. Closed-loop communication with nursing, pharmacy, and the prescriber reduces errors."
+  },
+  {
+    "id": 483,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "How should goals of care shape antimicrobial transitions?",
+    "back": "The plan should reflect whether the goal is cure, symptom relief, life prolongation, or comfort-focused care. The same antibiotic may be reasonable in different contexts, but the duration, monitoring intensity, and escalation plan should match the patient’s priorities."
+  },
+  {
+    "id": 484,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What adverse effects are especially relevant after discharge?",
+    "back": "Nephrotoxicity, bleeding, hypoglycemia, diarrhea, rash, and drug-induced delirium. These are more likely to appear after the patient leaves the hospital because hydration, diet, and concomitant medications often change at the same time."
+  },
+  {
+    "id": 485,
+    "chapter": 31,
+    "domain": "transitions",
+    "front": "What is the safest general principle for antibiotic transition handoffs?",
+    "back": "Make the plan explicit enough that another clinician can continue or stop therapy without guessing. The handoff should identify the infection, the treatment rationale, the monitoring plan, and the person responsible for final discontinuation."
+  },
+  {
+    "id": 486,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What makes an infection prevention metric useful at the unit level?",
+    "back": "It should be linked to a changeable process, measured consistently, and meaningful to bedside care. A good metric helps staff identify where workflow, supplies, communication, or accountability need improvement."
+  },
+  {
+    "id": 487,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why can lower infection counts be misleading?",
+    "back": "Lower counts may reflect under screening, delayed reporting, or inconsistent case finding rather than true improvement. Surveillance intensity must be considered before concluding that prevention has improved."
+  },
+  {
+    "id": 488,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What is the prevention role of hand hygiene in older adults?",
+    "back": "Hand hygiene removes transient organisms and interrupts transmission between staff, patients, and shared equipment. In older adults, it is especially important because frailty, devices, and frequent assistance increase exposure opportunities."
+  },
+  {
+    "id": 489,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why are older adults vulnerable to environmental contamination?",
+    "back": "They often depend on touch points, assistive devices, and shared equipment, and may have limited ability to notice or correct lapses. Sensory and cognitive impairment reduce their ability to compensate for system failures."
+  },
+  {
+    "id": 490,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What does source control mean in prevention quality?",
+    "back": "It means reducing reservoirs and exposure opportunities, such as removing unnecessary devices, controlling contaminated materials, and separating clean from dirty workflows. It is a systems approach, not a medication choice."
+  },
+  {
+    "id": 491,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why should unnecessary precautions be discontinued promptly?",
+    "back": "Because prolonged restrictions can worsen delirium, deconditioning, depression, and missed care. Prevention should reduce harm without creating a new burden that outweighs the benefit."
+  },
+  {
+    "id": 492,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why is direct observation valuable but imperfect?",
+    "back": "It can show whether a process is happening, but results depend on who observes, when observation occurs, and how opportunities are defined. Documentation alone is not the same as verified performance."
+  },
+  {
+    "id": 493,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What is a common diagnostic pitfall in prevention quality?",
+    "back": "Assuming a low reported rate means good performance. Under detection, inconsistent definitions, and incomplete reporting can hide true problems, especially in older adults with nonspecific symptoms."
+  },
+  {
+    "id": 494,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What should a good discharge handoff include for infection prevention?",
+    "back": "It should state whether precautions continue, what follow up is needed, and what the receiving setting must monitor or report. Clear transitions reduce gaps between care settings."
+  },
+  {
+    "id": 495,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "How does equity affect prevention quality?",
+    "back": "Language barriers, hearing or vision loss, cognitive impairment, low health literacy, and access problems can reduce screening uptake and adherence. Effective systems adapt communication and workflow to patient needs."
+  },
+  {
+    "id": 496,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why can isolation be harmful in geriatric care?",
+    "back": "Isolation can increase loneliness, delirium, falls, functional decline, and missed mobility or therapy. The benefit of precautions must be weighed against these geriatric harms."
+  },
+  {
+    "id": 497,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What is one practical unit action for improving cleaning reliability?",
+    "back": "Use a shared checklist with clear ownership for terminal cleaning and between patient use tasks. Verifiable, routine steps outperform informal expectations."
+  },
+  {
+    "id": 498,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why should public health reporting be prompt?",
+    "back": "Reporting supports surveillance, contact tracing, resource coordination, and protection of vulnerable contacts across settings. Delayed reporting weakens population level prevention."
+  },
+  {
+    "id": 499,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "Why should older adult prevention plans involve family or caregivers when appropriate?",
+    "back": "Because cognitive, sensory, or functional limitations may prevent the patient from fully managing prevention tasks. Caregivers can help reinforce communication, follow up, and adherence."
+  },
+  {
+    "id": 500,
+    "chapter": 32,
+    "domain": "prevention",
+    "front": "What is the main goal of a practical unit level prevention plan?",
+    "back": "To make the safest action the easiest action through reliable supplies, clear responsibility, consistent communication, and measurable feedback that staff can act on."
+  }
+]
